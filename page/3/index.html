@@ -103,7 +103,7 @@
 
   <div id="container">
     <div id="wrap">
-            
+
       <div id="content" class="outer">
         
           <section id="main">
@@ -530,10 +530,21 @@ Youtube：https://www.youtube.com/watch?v=ZTR5TCJ0Gy8&amp;t=9
 	      &copy; 2020 Blueberry All Rights Reserved.
         
             <span id="busuanzi_container_site_uv">
-              本站访客数<span id="busuanzi_value_site_uv"></span>人次  
-              本站总访问量<span id="busuanzi_value_site_pv"></span>次
+
             </span>
           
+          <span id="timeDate">载入天数...</span>
+<script>
+    var now = new Date();
+    function createtime() {
+        var grt= new Date("6/11/2020 17:38:00");//在此处修改你的建站时间
+        now.setTime(now.getTime()+250);
+        days = (now - grt ) / 1000 / 60 / 60 / 24; dnum = Math.floor(days);
+        document.getElementById("timeDate").innerHTML = "本店已经悄悄经营了 "+dnum+" 天 ";
+
+    }
+setInterval("createtime()",250);
+</script>
       </div>
       <div class="site-credit">
         Theme by <a href="https://github.com/iTimeTraveler/hexo-theme-hipaper" target="_blank">hipaper</a>
@@ -554,8 +565,9 @@ Youtube：https://www.youtube.com/watch?v=ZTR5TCJ0Gy8&amp;t=9
 
     <!-- headerblur min height -->
     
-    
+
 </script>
+
     
 <div style="display: none;">
   <script src="https://s11.cnzz.com/z_stat.php?id=1260716016&web_id=1260716016" language="JavaScript"></script>
@@ -634,6 +646,9 @@ Youtube：https://www.youtube.com/watch?v=ZTR5TCJ0Gy8&amp;t=9
   </div>
 
   <a id="rocket" href="#top" class=""></a>
+  <canvas class="fireworks" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;" ></canvas>
+<script type="text/javascript" src="//cdn.bootcss.com/animejs/2.2.0/anime.min.js"></script>
+<script type="text/javascript" src="/js/fireworks.js"></script>
   <script type="text/javascript" src="/js/totop.js" async=""></script>
 </body>
 </html>
