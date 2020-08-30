@@ -557,7 +557,7 @@
         var grt= new Date("6/11/2020 17:38:00");//在此处修改你的建站时间
         now.setTime(now.getTime()+250);
         days = (now - grt ) / 1000 / 60 / 60 / 24; dnum = Math.floor(days);
-        document.getElementById("timeDate").innerHTML = "🍧本店已经悄悄经营了 "+dnum+" 天 ";
+        document.getElementById("timeDate").innerHTML = "💙本店已经悄悄经营了 "+ dnum +" 天 ";
 
     }
 setInterval("createtime()",250);
@@ -567,6 +567,56 @@ setInterval("createtime()",250);
         Theme by <a href="https://github.com/iTimeTraveler/hexo-theme-hipaper" target="_blank">hipaper</a>
       </div>
   </div>
+
+
+
+
+  <script>       
+
+  window.onload=function(){        
+
+  var Imgbtn=document.getElementById('btn');        
+
+  var Img=document.getElementById('img');        
+
+  Imgbtn.onclick=function(){            
+
+  if(Img.src=='http://dl.bizhi.sogou.com/images/2012/01/19/191337.png')            {             
+
+  Img.src='http://pic3.nipic.com/20090701/2847972_130628068_2.jpg';          
+
+  }else{                    
+
+  Img.src='http://dl.bizhi.sogou.com/images/2012/01/19/191337.png'  
+
+  }            
+
+  }           
+
+  }    
+
+  </script>    
+
+
+  <script>
+  function change_pic() {
+  var imgObj = document.getElementById("taro");
+  if (imgObj.getAttribute("src", 2) == "https://i.loli.net/2020/08/30/hJNAYrfgx1TWEeK.png") {
+  imgObj.src = "https://i.loli.net/2020/08/30/qHh5zZMfF6TiKCr.png";
+  } else {
+  imgObj.src = "https://i.loli.net/2020/08/30/hJNAYrfgx1TWEeK.png";
+  }
+  }
+  </script>
+
+
+  <div
+    align=center >
+    <img src="https://i.loli.net/2020/08/30/hJNAYrfgx1TWEeK.png"
+    id="taro"
+    onClick="change_pic()"
+
+    />
 </footer>
 
 
