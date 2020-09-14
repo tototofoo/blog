@@ -140,7 +140,7 @@
 <div class="article-gallery">
   <div class="article-gallery-photos">
     
-      <a class="article-gallery-img fancybox" href="https://i.loli.net/2020/08/30/ODHc3n4h8ujPtRF.jpg" target="_blank" rel="gallery_ckf0xxkw6000604wu5uipesam noopener">
+      <a class="article-gallery-img fancybox" href="https://i.loli.net/2020/08/30/ODHc3n4h8ujPtRF.jpg" target="_blank" rel="gallery_ckf2dtr16000bziwugzaje8rp noopener">
         <img src="https://i.loli.net/2020/08/30/ODHc3n4h8ujPtRF.jpg" itemprop="image">
       </a>
     
@@ -167,7 +167,7 @@
       
 	<span class="ico-folder"></span>
     <a class="article-category-link" href="/blog/categories/log/">log</a>
- 
+
       
 	<span id="busuanzi_container_page_pv">
 	  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
@@ -202,29 +202,61 @@
   <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/blog/tags/%E5%A4%87%E4%BB%BD/" rel="tag">备份</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/blog/tags/%E6%9B%B4%E6%96%B0%E5%B1%A5%E5%8E%86/" rel="tag">更新履历</a></li></ul>
 
       
+
         
+            <section id="comments" class="comments">
+              <style>
+                .comments{margin:30px;padding:10px;background:#fff}
+                @media screen and (max-width:800px){.comments{margin:auto;padding:10px;background:#fff}}
+              </style>
+              <div class="valine_comment"></div>
+<!--载入js，在<script src="/blog/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"debug":false,"model":{"jsonPath":"/blog/live2dw/assets/hijiki.model.json"},"display":{"position":"right","width":200,"height":280},"mobile":{"show":false},"log":false});</script><script src="/blog/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"debug":false,"model":{"jsonPath":"/blog/live2dw/assets/hijiki.model.json"},"display":{"position":"right","width":200,"height":280},"mobile":{"show":false},"log":false});</script><script src="/blog/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"debug":false,"model":{"jsonPath":"/blog/live2dw/assets/hijiki.model.json"},"display":{"position":"right","width":200,"height":280},"mobile":{"show":false},"log":false});</script></body>之前插入即可-->
+<!--Leancloud 操作库:-->
+<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<!--Valine 的核心代码库-->
+<script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+<script>
+  var notify = 'true' == true ? true : false;
+  var verify = 'false' == true ? true : false;
+  new Valine({
+      // AV 对象来自上面引入av-min.js(老司机们不要开车➳♡゛扎心了老铁)
+      av: AV,
+      el: '.valine_comment',
+      emoticon_url: 'https://cloud.panjunwen.com/alu',
+      emoticon_list: ["狂汗.png","不说话.png","汗.png","坐等.png","献花.png","不高兴.png","中刀.png","害羞.png","皱眉.png","小眼睛.png","暗地观察.png"],
+      app_id: 'TyufVLePT0oXycEsmeeGRJyw-gzGzoHsz',
+      app_key: 'P32sDK74Ij8e9WUC81Rg1a9A',
+      placeholder: '喵喵喵？'
+    });
+</script>
+
+          </section>
+        
+
+        
+
 	<div id="comment">
 		<!-- 来必力City版安装代码 -->
-		<div id="lv-container" data-id="city" data-uid="MTAyMC81MTA4Ny8yNzU2OQ==">
-		<script type="text/javascript">
-		   (function(d, s) {
-		       var j, e = d.getElementsByTagName(s)[0];
+<div id="lv-container" data-id="city" data-uid="MTAyMC81MTA4Ny8yNzU2OQ==">
+<script type="text/javascript">
+   (function(d, s) {
+       var j, e = d.getElementsByTagName(s)[0];
 
-		       if (typeof LivereTower === 'function') { return; }
+       if (typeof LivereTower === 'function') { return; }
 
-		       j = d.createElement(s);
-		       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
-		       j.async = true;
+       j = d.createElement(s);
+       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+       j.async = true;
 
-		       e.parentNode.insertBefore(j, e);
-		   })(document, 'script');
-		</script>
-		<noscript>为正常使用来必力评论功能请激活JavaScript</noscript>
-		</div>
-		<!-- City版安装代码已完成 -->
+       e.parentNode.insertBefore(j, e);
+   })(document, 'script');
+
+<noscript>为正常使用来必力评论功能请激活JavaScript</noscript>
+</div>
+<!-- City版安装代码已完成 -->
+
+	 </script>
 	</div>
-
-
 
       
     </footer>
@@ -264,6 +296,7 @@
     
     </div>
   </aside>
+
 
 </section>
         

@@ -142,7 +142,7 @@
 <div class="article-gallery">
   <div class="article-gallery-photos">
     
-      <a class="article-gallery-img fancybox" href="https://i.loli.net/2020/06/14/xsbn41DXSPl5k2I.jpg" target="_blank" rel="gallery_ckf0xxkwk000d04wudzph7gkn noopener">
+      <a class="article-gallery-img fancybox" href="https://i.loli.net/2020/06/14/xsbn41DXSPl5k2I.jpg" target="_blank" rel="gallery_ckf2dtr1a000gziwufzcefp3d noopener">
         <img src="https://i.loli.net/2020/06/14/xsbn41DXSPl5k2I.jpg" itemprop="image">
       </a>
     
@@ -169,7 +169,7 @@
       
 	<span class="ico-folder"></span>
     <a class="article-category-link" href="/blog/categories/illust/">illust</a>, <a class="article-category-link" href="/blog/categories/log/">log</a>
- 
+
       
 	<span id="busuanzi_container_page_pv">
 	  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
@@ -250,29 +250,61 @@
   <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/blog/tags/%E6%89%8B%E4%B9%A6/" rel="tag">手书</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/blog/tags/%E6%9D%82%E8%AE%B0/" rel="tag">杂记</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/blog/tags/%E7%81%B0%E6%BF%91/" rel="tag">灰濑</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/blog/tags/%E9%80%8F%E5%90%9B/" rel="tag">透君</a></li></ul>
 
       
+
         
+            <section id="comments" class="comments">
+              <style>
+                .comments{margin:30px;padding:10px;background:#fff}
+                @media screen and (max-width:800px){.comments{margin:auto;padding:10px;background:#fff}}
+              </style>
+              <div class="valine_comment"></div>
+<!--载入js，在<script src="/blog/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"debug":false,"model":{"jsonPath":"/blog/live2dw/assets/hijiki.model.json"},"display":{"position":"right","width":200,"height":280},"mobile":{"show":false},"log":false});</script><script src="/blog/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"debug":false,"model":{"jsonPath":"/blog/live2dw/assets/hijiki.model.json"},"display":{"position":"right","width":200,"height":280},"mobile":{"show":false},"log":false});</script><script src="/blog/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"debug":false,"model":{"jsonPath":"/blog/live2dw/assets/hijiki.model.json"},"display":{"position":"right","width":200,"height":280},"mobile":{"show":false},"log":false});</script></body>之前插入即可-->
+<!--Leancloud 操作库:-->
+<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<!--Valine 的核心代码库-->
+<script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+<script>
+  var notify = 'true' == true ? true : false;
+  var verify = 'false' == true ? true : false;
+  new Valine({
+      // AV 对象来自上面引入av-min.js(老司机们不要开车➳♡゛扎心了老铁)
+      av: AV,
+      el: '.valine_comment',
+      emoticon_url: 'https://cloud.panjunwen.com/alu',
+      emoticon_list: ["狂汗.png","不说话.png","汗.png","坐等.png","献花.png","不高兴.png","中刀.png","害羞.png","皱眉.png","小眼睛.png","暗地观察.png"],
+      app_id: 'TyufVLePT0oXycEsmeeGRJyw-gzGzoHsz',
+      app_key: 'P32sDK74Ij8e9WUC81Rg1a9A',
+      placeholder: '喵喵喵？'
+    });
+</script>
+
+          </section>
+        
+
+        
+
 	<div id="comment">
 		<!-- 来必力City版安装代码 -->
-		<div id="lv-container" data-id="city" data-uid="MTAyMC81MTA4Ny8yNzU2OQ==">
-		<script type="text/javascript">
-		   (function(d, s) {
-		       var j, e = d.getElementsByTagName(s)[0];
+<div id="lv-container" data-id="city" data-uid="MTAyMC81MTA4Ny8yNzU2OQ==">
+<script type="text/javascript">
+   (function(d, s) {
+       var j, e = d.getElementsByTagName(s)[0];
 
-		       if (typeof LivereTower === 'function') { return; }
+       if (typeof LivereTower === 'function') { return; }
 
-		       j = d.createElement(s);
-		       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
-		       j.async = true;
+       j = d.createElement(s);
+       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+       j.async = true;
 
-		       e.parentNode.insertBefore(j, e);
-		   })(document, 'script');
-		</script>
-		<noscript>为正常使用来必力评论功能请激活JavaScript</noscript>
-		</div>
-		<!-- City版安装代码已完成 -->
+       e.parentNode.insertBefore(j, e);
+   })(document, 'script');
+
+<noscript>为正常使用来必力评论功能请激活JavaScript</noscript>
+</div>
+<!-- City版安装代码已完成 -->
+
+	 </script>
 	</div>
-
-
 
       
     </footer>
@@ -312,6 +344,7 @@
     
     </div>
   </aside>
+
 
 </section>
         
