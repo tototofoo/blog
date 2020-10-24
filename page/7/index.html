@@ -66,6 +66,12 @@
   <link rel="stylesheet" href="/blog/css/fashion.css" >
   <link rel="stylesheet" href="/blog/css/glyphs.css" >
 
+
+  <link rel="stylesheet" type="text/css" href="/css/matery.css">
+
+
+
+
 <meta name="generator" content="Hexo 4.2.1"></head>
 
 
@@ -108,7 +114,9 @@
                     
                       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/blog/about">🚸 关于</a> </li>
                     
-                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="https://tototofoo.github.io/">🐈 返回</a> </li>
+                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/blog/%E6%9B%B4%E6%96%B0%E5%B1%A5%E5%8E%86">更新履历</a> </li>
+                    
+                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="https://tototofoo.github.io/">返回</a> </li>
                     
               </ul>
             </div>
@@ -491,6 +499,11 @@ Youtube：https://www.youtube.com/watch?v=ZTR5TCJ0Gy8&amp;t=9
 
 
   
+    <div class="widget tag">
+    <h3 class="title">calendar</h3>
+    <div id="calendar"></div>
+</div>
+  
     
   <div class="widget-wrap">
     <h3 class="widget-title">Archives</h3>
@@ -514,12 +527,12 @@ Youtube：https://www.youtube.com/watch?v=ZTR5TCJ0Gy8&amp;t=9
 
             
               <div class="widget-entry-thumbnail">
-                <a href="/blog/2020/10/23/1023%E8%BE%9B/" title=""><img width="50" height="50" src="https://i.loli.net/2020/10/23/erzBJWC5GDKIoHN.jpg" class="attachment-thumb-small size-thumb-small wp-post-image" alt="preview-16" title=""></a>
+                <a href="/blog/2020/10/23/10:23%E6%98%AF%E5%8D%8E%E8%A3%94%E6%B7%B7%E6%B7%B7%E5%B8%AE%E8%80%81%E5%A4%A7(%E5%95%A5%E5%95%8A)/" title=""><img width="50" height="50" src="https://i.loli.net/2020/10/23/erzBJWC5GDKIoHN.jpg" class="attachment-thumb-small size-thumb-small wp-post-image" alt="preview-16" title=""></a>
               </div>
               <div class="widget-entry-summary">
             
 
-              <h6 style="margin: 0;"><a href="/blog/2020/10/23/1023%E8%BE%9B/">10/23 是华裔混混帮老大(啥啊)</a></h6>
+              <h6 style="margin: 0;"><a href="/blog/2020/10/23/10:23%E6%98%AF%E5%8D%8E%E8%A3%94%E6%B7%B7%E6%B7%B7%E5%B8%AE%E8%80%81%E5%A4%A7(%E5%95%A5%E5%95%8A)/">10/23是华裔混混帮老大(啥啊)</a></h6>
               <span>October 23, 2020</span>
             </div>
 
@@ -652,7 +665,10 @@ Youtube：https://www.youtube.com/watch?v=ZTR5TCJ0Gy8&amp;t=9
   </div>
 
   
+
+
 </aside>
+
         
       </div>
 
@@ -669,7 +685,9 @@ Youtube：https://www.youtube.com/watch?v=ZTR5TCJ0Gy8&amp;t=9
   
     <a href="/blog/about" class="mobile-nav-link">🚸 关于</a>
   
-    <a href="https://tototofoo.github.io/" class="mobile-nav-link">🐈 返回</a>
+    <a href="/blog/%E6%9B%B4%E6%96%B0%E5%B1%A5%E5%8E%86" class="mobile-nav-link">更新履历</a>
+  
+    <a href="https://tototofoo.github.io/" class="mobile-nav-link">返回</a>
   
 </nav> -->
     <footer id="footer" class="site-footer">
@@ -814,6 +832,29 @@ setInterval("createtime()",250);
 </script>
 
 
+<!-- Calendar -->
+
+    <script src="/blog/js/calendar.js"></script>
+    <script src="/blog/js/languages.js"></script>
+    <script type="text/javascript">
+        $(function() {
+            $('#calendar').aCalendar(
+                'zh-CN',
+                {single:true, root:'calendar/'}
+            );
+            // 下面的代码用于页面测试，可以不添加
+            
+                $('#calendar-sample').aCalendar(
+                    'zh-CN',
+                    {single:true, root:'calendar/'}
+                );
+            
+        });
+    </script>
+
+
+
+
   
 <link rel="stylesheet" href="/blog/fancybox/jquery.fancybox.css">
 
@@ -846,6 +887,7 @@ setInterval("createtime()",250);
 
 	<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
 	</script>
+
 
 
 

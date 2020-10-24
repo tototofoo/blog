@@ -78,6 +78,12 @@
   <link rel="stylesheet" href="/blog/css/fashion.css" >
   <link rel="stylesheet" href="/blog/css/glyphs.css" >
 
+
+  <link rel="stylesheet" type="text/css" href="/css/matery.css">
+
+
+
+
 <meta name="generator" content="Hexo 4.2.1"></head>
 
 
@@ -120,7 +126,9 @@
                     
                       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/blog/about">🚸 关于</a> </li>
                     
-                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="https://tototofoo.github.io/">🐈 返回</a> </li>
+                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/blog/%E6%9B%B4%E6%96%B0%E5%B1%A5%E5%8E%86">更新履历</a> </li>
+                    
+                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="https://tototofoo.github.io/">返回</a> </li>
                     
               </ul>
             </div>
@@ -142,7 +150,7 @@
 <div class="article-gallery">
   <div class="article-gallery-photos">
     
-      <a class="article-gallery-img fancybox" href="https://i.loli.net/2020/06/14/xsbn41DXSPl5k2I.jpg" target="_blank" rel="gallery_ckgmbsqdy0017bfwu1k2j3ftw noopener">
+      <a class="article-gallery-img fancybox" href="https://i.loli.net/2020/06/14/xsbn41DXSPl5k2I.jpg" target="_blank" rel="gallery_ckgn8xxmv001aeywugpyge3si noopener">
         <img src="https://i.loli.net/2020/06/14/xsbn41DXSPl5k2I.jpg" itemprop="image">
       </a>
     
@@ -378,7 +386,9 @@
   
     <a href="/blog/about" class="mobile-nav-link">🚸 关于</a>
   
-    <a href="https://tototofoo.github.io/" class="mobile-nav-link">🐈 返回</a>
+    <a href="/blog/%E6%9B%B4%E6%96%B0%E5%B1%A5%E5%8E%86" class="mobile-nav-link">更新履历</a>
+  
+    <a href="https://tototofoo.github.io/" class="mobile-nav-link">返回</a>
   
 </nav> -->
     <footer id="footer" class="site-footer">
@@ -523,6 +533,29 @@ setInterval("createtime()",250);
 </script>
 
 
+<!-- Calendar -->
+
+    <script src="/blog/js/calendar.js"></script>
+    <script src="/blog/js/languages.js"></script>
+    <script type="text/javascript">
+        $(function() {
+            $('#calendar').aCalendar(
+                'zh-CN',
+                {single:true, root:'calendar/'}
+            );
+            // 下面的代码用于页面测试，可以不添加
+            
+                $('#calendar-sample').aCalendar(
+                    'zh-CN',
+                    {single:true, root:'calendar/'}
+                );
+            
+        });
+    </script>
+
+
+
+
   
 <link rel="stylesheet" href="/blog/fancybox/jquery.fancybox.css">
 
@@ -555,6 +588,7 @@ setInterval("createtime()",250);
 
 	<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
 	</script>
+
 
 
 
