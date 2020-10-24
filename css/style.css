@@ -992,6 +992,16 @@ a.article-title:hover {
 .nav-child {
   margin-left: 1em;
 }
+.post-copyright {
+  margin: 2em 0 0;
+  padding: 0.5em 1em;
+  border-left: 3px solid #7b68ee;
+  background-color: #f9f7fb;
+  list-style: none;
+}
+.post-copyright li {
+  line-height: 30px;
+}
 #comments {
   padding: 20px;
   margin: 50px 0;
