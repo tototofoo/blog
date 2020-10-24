@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+
   <meta charset="utf-8">
   
   <title>Tag: 游戏 | Blueberry</title>
@@ -46,6 +47,8 @@
   
     <link rel="alternate" href="/atom.xml" title="Blueberry" type="application/atom+xml">
   
+
+
   <link rel="icon" href="/blog/css/images/cat.icns">
   
     <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
@@ -53,6 +56,7 @@
   <link href="https://fonts.googleapis.com/css?family=Open+Sans|Montserrat:700" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic" rel="stylesheet" type="text/css">
   <link href="//cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+
   <style type="text/css">
     @font-face{font-family:futura-pt;src:url(https://use.typekit.net/af/9749f0/00000000000000000001008f/27/l?subset_id=2&fvd=n5) format("woff2");font-weight:500;font-style:normal;}
     @font-face{font-family:futura-pt;src:url(https://use.typekit.net/af/90cf9f/000000000000000000010091/27/l?subset_id=2&fvd=n7) format("woff2");font-weight:500;font-style:normal;}
@@ -76,11 +80,6 @@
   <link rel="stylesheet" href="/blog/css/glyphs.css" >
 
 
-  <link rel="stylesheet" type="text/css" href="/css/matery.css">
-
-
-
-
 <meta name="generator" content="Hexo 4.2.1"></head>
 
 
@@ -91,7 +90,7 @@
   
 
 
-<header id="allheader" class="site-header" role="banner" 
+<header id="allheader" class="site-header" role="banner"
    >
   <div class="clearfix container">
       <div class="site-branding">
@@ -103,9 +102,9 @@
               </a>
             
           </h1>
+
           
-          
-            
+
           <nav id="main-navigation" class="main-navigation" role="navigation">
             <a class="nav-open">Menu</a>
             <a class="nav-close">Close</a>
@@ -119,9 +118,11 @@
                     
                       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/blog/categories/illust/">✏️ 图本</a> </li>
                     
-                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/blog/ghost">👻 ghost</a> </li>
-                    
                       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/blog/about">🚸 关于</a> </li>
+                    
+                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/blog/ghost">ghost</a> </li>
+                    
+                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/blog/%E5%BD%92%E6%A1%A3">仓库</a> </li>
                     
                       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/blog/%E6%9B%B4%E6%96%B0%E5%B1%A5%E5%8E%86">更新履历</a> </li>
                     
@@ -514,6 +515,60 @@
 
   
 
+<style type="text/css">
+    #category-radar {
+        width: 100%;
+        height: 360px;
+    }
+</style>
+
+<div class="container" data-aos="fade-up">
+    <div class="card">
+        <div id="category-radar" class="card-content"></div>
+    </div>
+</div>
+<script type="text/javascript" src="/js/echarts.min.js"></script>
+<script type="text/javascript">
+    let radarChart = echarts.init(document.getElementById('category-radar'));
+
+    
+
+    let option = {
+        title: {
+            left: 'center',
+            text: '文章分类雷达图',
+            textStyle: {
+                fontWeight: 500,
+                fontSize: 22
+            }
+        },
+        tooltip: {},
+        radar: {
+            name: {
+                textStyle: {
+                    color: '#3C4858'
+                }
+            },
+            indicator: [{"name":"illust","max":30},{"name":"log","max":30},{"name":"鱼干","max":30},{"name":"漫画","max":30},{"name":"像素","max":30}],
+            nameGap: 5,
+            center: ['50%','55%'],
+            radius: '66%'
+        },
+        series: [{
+            type: 'radar',
+            color: ['#3ecf8e'],
+            itemStyle: {normal: {areaStyle: {type: 'default'}}},
+            data : [
+                {
+                    value : [29,12,19,6,1],
+                    name : 'categoryNumber'
+                }
+            ]
+        }]
+    };
+
+    radarChart.setOption(option);
+</script>
 
 </aside>
 
@@ -529,9 +584,11 @@
   
     <a href="/blog/categories/illust/" class="mobile-nav-link">✏️ 图本</a>
   
-    <a href="/blog/ghost" class="mobile-nav-link">👻 GHOst</a>
-  
     <a href="/blog/about" class="mobile-nav-link">🚸 关于</a>
+  
+    <a href="/blog/ghost" class="mobile-nav-link">GHOst</a>
+  
+    <a href="/blog/%E5%BD%92%E6%A1%A3" class="mobile-nav-link">仓库</a>
   
     <a href="/blog/%E6%9B%B4%E6%96%B0%E5%B1%A5%E5%8E%86" class="mobile-nav-link">更新履历</a>
   

@@ -49,7 +49,7 @@
     <published>2020-10-22T09:46:44.000Z</published>
     <updated>2020-10-22T14:22:06.981Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>我差点又鸽了周更, 惨…😨</p><p>堆点速涂吧(…)</p>        <div id="aplayer-sfBqtrMU" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-sfBqtrMU"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "When I Turn Off The Living Room Lights",              author: "The Kinks",              url: "http://m128.xiami.net/0/0/2099365266/1773058096_14992476_l.mp3?auth_key=1603940400-0-0-0a9cbd81bd16e1fcf146d665c7fde4bc",              pic: "/blog/2020/10/22/1022/79.gif",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>奇想乐队的歌真不错(…)</p><img src="https://i.loli.net/2020/10/22/SvtwZrFmixLd3Mc.jpg" style="zoom:33%;"><p><img src="https://i.loli.net/2020/10/22/hIwEsFyqWafxSA5.jpg" alt></p><p><img src="https://i.loli.net/2020/10/22/8GsV9RIgD52t7cx.jpg" alt></p><p><img src="https://i.loli.net/2020/10/22/Ti386SL5zhNDARX.jpg" alt></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>我差点又鸽了周更, 惨…😨</p><p>堆点速涂吧(…)</p>        <div id="aplayer-jZxMRDvj" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-jZxMRDvj"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "When I Turn Off The Living Room Lights",              author: "The Kinks",              url: "http://m128.xiami.net/0/0/2099365266/1773058096_14992476_l.mp3?auth_key=1603940400-0-0-0a9cbd81bd16e1fcf146d665c7fde4bc",              pic: "/blog/2020/10/22/1022/79.gif",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>奇想乐队的歌真不错(…)</p><img src="https://i.loli.net/2020/10/22/SvtwZrFmixLd3Mc.jpg" style="zoom:33%;"><p><img src="https://i.loli.net/2020/10/22/hIwEsFyqWafxSA5.jpg" alt></p><p><img src="https://i.loli.net/2020/10/22/8GsV9RIgD52t7cx.jpg" alt></p><p><img src="https://i.loli.net/2020/10/22/Ti386SL5zhNDARX.jpg" alt></p>]]></content>
     
     
       
@@ -85,9 +85,9 @@
     <category term="log" scheme="https://tototofoo.github.io/blog/categories/log/"/>
     
     
-    <category term="日常" scheme="https://tototofoo.github.io/blog/tags/%E6%97%A5%E5%B8%B8/"/>
-    
     <category term="杂记" scheme="https://tototofoo.github.io/blog/tags/%E6%9D%82%E8%AE%B0/"/>
+    
+    <category term="日常" scheme="https://tototofoo.github.io/blog/tags/%E6%97%A5%E5%B8%B8/"/>
     
     <category term="一些书" scheme="https://tototofoo.github.io/blog/tags/%E4%B8%80%E4%BA%9B%E4%B9%A6/"/>
     
@@ -136,9 +136,9 @@
     
     <category term="illust" scheme="https://tototofoo.github.io/blog/categories/illust/"/>
     
-    <category term="鱼干" scheme="https://tototofoo.github.io/blog/categories/illust/%E9%B1%BC%E5%B9%B2/"/>
-    
     <category term="log" scheme="https://tototofoo.github.io/blog/categories/log/"/>
+    
+    <category term="鱼干" scheme="https://tototofoo.github.io/blog/categories/illust/%E9%B1%BC%E5%B9%B2/"/>
     
     
     <category term="杂记" scheme="https://tototofoo.github.io/blog/tags/%E6%9D%82%E8%AE%B0/"/>
@@ -513,14 +513,14 @@
     
     <category term="illust" scheme="https://tototofoo.github.io/blog/categories/illust/"/>
     
-    <category term="漫画" scheme="https://tototofoo.github.io/blog/categories/illust/%E6%BC%AB%E7%94%BB/"/>
-    
     <category term="log" scheme="https://tototofoo.github.io/blog/categories/log/"/>
     
+    <category term="漫画" scheme="https://tototofoo.github.io/blog/categories/illust/%E6%BC%AB%E7%94%BB/"/>
     
-    <category term="漫画" scheme="https://tototofoo.github.io/blog/tags/%E6%BC%AB%E7%94%BB/"/>
     
     <category term="杂记" scheme="https://tototofoo.github.io/blog/tags/%E6%9D%82%E8%AE%B0/"/>
+    
+    <category term="漫画" scheme="https://tototofoo.github.io/blog/tags/%E6%BC%AB%E7%94%BB/"/>
     
     <category term="做的有的没的" scheme="https://tototofoo.github.io/blog/tags/%E5%81%9A%E7%9A%84%E6%9C%89%E7%9A%84%E6%B2%A1%E7%9A%84/"/>
     
