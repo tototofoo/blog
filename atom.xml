@@ -6,7 +6,7 @@
   <link href="https://tototofoo.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://tototofoo.github.io/blog/"/>
-  <updated>2020-10-24T03:11:53.507Z</updated>
+  <updated>2020-10-26T15:02:14.293Z</updated>
   <id>https://tototofoo.github.io/blog/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>10/26 奇怪的flag增加了</title>
+    <link href="https://tototofoo.github.io/blog/2020/10/26/1026flag/"/>
+    <id>https://tototofoo.github.io/blog/2020/10/26/1026flag/</id>
+    <published>2020-10-26T14:56:42.000Z</published>
+    <updated>2020-10-26T15:02:14.293Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="https://i.loli.net/2020/10/26/4rT5OaobkextyMw.jpg" style="zoom:15%;"><p>我也不知道会画出个什么玩意来, 工作也难找ry 打工人都当不上</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/blog/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/blog/assets/js/APlayer.m</summary>
+      
+    
+    
+    
+    <category term="log" scheme="https://tototofoo.github.io/blog/categories/log/"/>
+    
+    
+    <category term="flag" scheme="https://tototofoo.github.io/blog/tags/flag/"/>
+    
+  </entry>
   
   <entry>
     <title>10/23是华裔混混帮老大(啥啊)</title>
@@ -49,7 +73,7 @@
     <published>2020-10-22T09:46:44.000Z</published>
     <updated>2020-10-22T14:22:06.981Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>我差点又鸽了周更, 惨…😨</p><p>堆点速涂吧(…)</p>        <div id="aplayer-mTiAfVQx" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-mTiAfVQx"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "When I Turn Off The Living Room Lights",              author: "The Kinks",              url: "http://m128.xiami.net/0/0/2099365266/1773058096_14992476_l.mp3?auth_key=1603940400-0-0-0a9cbd81bd16e1fcf146d665c7fde4bc",              pic: "/blog/2020/10/22/1022/79.gif",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>奇想乐队的歌真不错(…)</p><img src="https://i.loli.net/2020/10/22/SvtwZrFmixLd3Mc.jpg" style="zoom:33%;"><p><img src="https://i.loli.net/2020/10/22/hIwEsFyqWafxSA5.jpg" alt></p><p><img src="https://i.loli.net/2020/10/22/8GsV9RIgD52t7cx.jpg" alt></p><p><img src="https://i.loli.net/2020/10/22/Ti386SL5zhNDARX.jpg" alt></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>我差点又鸽了周更, 惨…😨</p><p>堆点速涂吧(…)</p>        <div id="aplayer-YIDtGGkW" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-YIDtGGkW"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "When I Turn Off The Living Room Lights",              author: "The Kinks",              url: "http://m128.xiami.net/0/0/2099365266/1773058096_14992476_l.mp3?auth_key=1603940400-0-0-0a9cbd81bd16e1fcf146d665c7fde4bc",              pic: "/blog/2020/10/22/1022/79.gif",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>奇想乐队的歌真不错(…)</p><img src="https://i.loli.net/2020/10/22/SvtwZrFmixLd3Mc.jpg" style="zoom:33%;"><p><img src="https://i.loli.net/2020/10/22/hIwEsFyqWafxSA5.jpg" alt></p><p><img src="https://i.loli.net/2020/10/22/8GsV9RIgD52t7cx.jpg" alt></p><p><img src="https://i.loli.net/2020/10/22/Ti386SL5zhNDARX.jpg" alt></p>]]></content>
     
     
       
@@ -546,32 +570,6 @@
     <category term="更新履历" scheme="https://tototofoo.github.io/blog/tags/%E6%9B%B4%E6%96%B0%E5%B1%A5%E5%8E%86/"/>
     
     <category term="备份" scheme="https://tototofoo.github.io/blog/tags/%E5%A4%87%E4%BB%BD/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>8/26 我知道为什么一开始玩这个游戏觉得哪里有点眼熟了</title>
-    <link href="https://tototofoo.github.io/blog/2020/08/26/8-26%E5%A5%87%E6%80%AA%E7%9A%84%E8%81%94%E6%83%B3/"/>
-    <id>https://tototofoo.github.io/blog/2020/08/26/8-26%E5%A5%87%E6%80%AA%E7%9A%84%E8%81%94%E6%83%B3/</id>
-    <published>2020-08-26T14:04:54.000Z</published>
-    <updated>2020-08-26T14:08:08.788Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="https://i.loli.net/2020/08/26/dHCRQGT5v3m1BDj.jpg" alt="原来是水天使吗()" style="zoom: 67%;">]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/blog/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/blog/assets/js/APlayer.m</summary>
-      
-    
-    
-    
-    <category term="illust" scheme="https://tototofoo.github.io/blog/categories/illust/"/>
-    
-    <category term="鱼干" scheme="https://tototofoo.github.io/blog/categories/illust/%E9%B1%BC%E5%B9%B2/"/>
-    
-    
-    <category term="空洞骑士" scheme="https://tototofoo.github.io/blog/tags/%E7%A9%BA%E6%B4%9E%E9%AA%91%E5%A3%AB/"/>
     
   </entry>
   
