@@ -89,31 +89,9 @@
 
   
 
-  <div class="site-header-image">
-    <img id="originBg" width="100%" alt="Hike News" src="">
-  </div>
-
-  <div id="header-blur" class="site-header-image blur" style="position: absolute; top:0; height: 207px; min-height: 207px; min-width: 100%;">
-    <img id="blurBg" width="100%" style="top: 96%" alt="Hike News" src="">
-  </div>
-
-  <script>
-        var imgUrls = "css/images/7.jpg".split(",");
-        var random = Math.floor((Math.random() * imgUrls.length ));
-        if (imgUrls[random].startsWith('http') || imgUrls[random].indexOf('://') >= 0) {
-          document.getElementById("originBg").src=imgUrls[random];
-          document.getElementById("blurBg").src=imgUrls[random];
-        } else {
-          document.getElementById("originBg").src='/blog/' + imgUrls[random];
-          document.getElementById("blurBg").src='/blog/' + imgUrls[random];
-        }
-    </script>
-
-
-
 
 <header id="allheader" class="site-header" role="banner"
-   style="width: 100%; position: absolute; top:0; background: rgba(255,255,255,.8);"  >
+   >
   <div class="clearfix container">
       <div class="site-branding">
 
@@ -134,7 +112,7 @@
             <div class="clearfix sf-menu">
               <ul id="main-nav" class="menu sf-js-enabled sf-arrows"  style="touch-action: pan-y;">
                     
-                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/blog/">🌰 主页</a> </li>
+                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/blog/">🎄 主页</a> </li>
                     
                       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/blog/categories/log">📒 杂记</a> </li>
                     
@@ -170,7 +148,7 @@
 <div class="article-gallery">
   <div class="article-gallery-photos">
     
-      <a class="article-gallery-img fancybox" href="https://i.loli.net/2020/07/18/xbzi9XqDIGRAf3H.jpg" target="_blank" rel="gallery_cki2z1ydi000tfmwueqdm5oy1 noopener">
+      <a class="article-gallery-img fancybox" href="https://i.loli.net/2020/07/18/xbzi9XqDIGRAf3H.jpg" target="_blank" rel="gallery_cki4ijeew000v94wuavei7hbv noopener">
         <img src="https://i.loli.net/2020/07/18/xbzi9XqDIGRAf3H.jpg" itemprop="image">
       </a>
     
@@ -362,7 +340,7 @@
     </div>
     <!-- <nav id="mobile-nav">
   
-    <a href="/blog/" class="mobile-nav-link">🌰 主页</a>
+    <a href="/blog/" class="mobile-nav-link">🎄 主页</a>
   
     <a href="/blog/categories/log" class="mobile-nav-link">📒 杂记</a>
   
@@ -479,9 +457,6 @@ setInterval("createtime()",250);
 
 
     <!-- headerblur min height -->
-    
-      var headerblur = document.getElementById("header-blur");
-      headerblur.style.minHeight = window.getComputedStyle(document.getElementById("allheader"), null).height;
     
 
 </script>

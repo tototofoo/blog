@@ -25,7 +25,7 @@
   </style>
 
   
-  <meta name="keywords" content="阿泉布朗芋头手书灰濑透君零栋音乐别人的礼物" />
+  <meta name="keywords" content="阿泉布朗芋头零栋音乐手书灰濑透君别人的礼物" />
   
   
   
@@ -44,11 +44,11 @@
 <meta property="article:tag" content="阿泉">
 <meta property="article:tag" content="布朗">
 <meta property="article:tag" content="芋头">
+<meta property="article:tag" content="零栋">
+<meta property="article:tag" content="音乐">
 <meta property="article:tag" content="手书">
 <meta property="article:tag" content="灰濑">
 <meta property="article:tag" content="透君">
-<meta property="article:tag" content="零栋">
-<meta property="article:tag" content="音乐">
 <meta property="article:tag" content="别人的礼物">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="https://i.loli.net/2020/09/03/XNYzRnhWVsCdvre.png">
@@ -97,31 +97,9 @@
 
   
 
-  <div class="site-header-image">
-    <img id="originBg" width="100%" alt="Hike News" src="">
-  </div>
-
-  <div id="header-blur" class="site-header-image blur" style="position: absolute; top:0; height: 207px; min-height: 207px; min-width: 100%;">
-    <img id="blurBg" width="100%" style="top: 96%" alt="Hike News" src="">
-  </div>
-
-  <script>
-        var imgUrls = "css/images/7.jpg".split(",");
-        var random = Math.floor((Math.random() * imgUrls.length ));
-        if (imgUrls[random].startsWith('http') || imgUrls[random].indexOf('://') >= 0) {
-          document.getElementById("originBg").src=imgUrls[random];
-          document.getElementById("blurBg").src=imgUrls[random];
-        } else {
-          document.getElementById("originBg").src='/blog/' + imgUrls[random];
-          document.getElementById("blurBg").src='/blog/' + imgUrls[random];
-        }
-    </script>
-
-
-
 
 <header id="allheader" class="site-header" role="banner"
-   style="width: 100%; position: absolute; top:0; background: rgba(255,255,255,.8);"  >
+   >
   <div class="clearfix container">
       <div class="site-branding">
 
@@ -142,7 +120,7 @@
             <div class="clearfix sf-menu">
               <ul id="main-nav" class="menu sf-js-enabled sf-arrows"  style="touch-action: pan-y;">
                     
-                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/blog/">🌰 主页</a> </li>
+                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/blog/">🎄 主页</a> </li>
                     
                       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/blog/categories/log">📒 杂记</a> </li>
                     
@@ -178,7 +156,7 @@
 <div class="article-gallery">
   <div class="article-gallery-photos">
     
-      <a class="article-gallery-img fancybox" href="https://i.loli.net/2020/09/03/XNYzRnhWVsCdvre.png" target="_blank" rel="gallery_cki2z1ygb0039fmwu73ae2yss noopener">
+      <a class="article-gallery-img fancybox" href="https://i.loli.net/2020/09/03/XNYzRnhWVsCdvre.png" target="_blank" rel="gallery_cki4ijegg003a94wugo4f0933 noopener">
         <img src="https://i.loli.net/2020/09/03/XNYzRnhWVsCdvre.png" itemprop="image">
       </a>
     
@@ -404,7 +382,7 @@
     </div>
     <!-- <nav id="mobile-nav">
   
-    <a href="/blog/" class="mobile-nav-link">🌰 主页</a>
+    <a href="/blog/" class="mobile-nav-link">🎄 主页</a>
   
     <a href="/blog/categories/log" class="mobile-nav-link">📒 杂记</a>
   
@@ -521,9 +499,6 @@ setInterval("createtime()",250);
 
 
     <!-- headerblur min height -->
-    
-      var headerblur = document.getElementById("header-blur");
-      headerblur.style.minHeight = window.getComputedStyle(document.getElementById("allheader"), null).height;
     
 
 </script>
