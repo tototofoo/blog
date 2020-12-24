@@ -89,31 +89,9 @@
 
   
 
-  <div class="site-header-image">
-    <img id="originBg" width="100%" alt="Hike News" src="">
-  </div>
-
-  <div id="header-blur" class="site-header-image blur" style="position: absolute; top:0; height: 207px; min-height: 207px; min-width: 100%;">
-    <img id="blurBg" width="100%" style="top: 96%" alt="Hike News" src="">
-  </div>
-
-  <script>
-        var imgUrls = "css/images/7.jpg".split(",");
-        var random = Math.floor((Math.random() * imgUrls.length ));
-        if (imgUrls[random].startsWith('http') || imgUrls[random].indexOf('://') >= 0) {
-          document.getElementById("originBg").src=imgUrls[random];
-          document.getElementById("blurBg").src=imgUrls[random];
-        } else {
-          document.getElementById("originBg").src='/blog/' + imgUrls[random];
-          document.getElementById("blurBg").src='/blog/' + imgUrls[random];
-        }
-    </script>
-
-
-
 
 <header id="allheader" class="site-header" role="banner"
-   style="width: 100%; position: absolute; top:0; background: rgba(255,255,255,.8);"  >
+   >
   <div class="clearfix container">
       <div class="site-branding">
 
@@ -170,7 +148,7 @@
 <div class="article-gallery">
   <div class="article-gallery-photos">
     
-      <a class="article-gallery-img fancybox" href="https://i.loli.net/2020/12/18/yrFGBLoOxlcWVhH.jpg" target="_blank" rel="gallery_ckiu9rieg000uh6wudkpw8y2w noopener">
+      <a class="article-gallery-img fancybox" href="https://i.loli.net/2020/12/18/yrFGBLoOxlcWVhH.jpg" target="_blank" rel="gallery_ckj2vcy350017dhwu823tdcg1 noopener">
         <img src="https://i.loli.net/2020/12/18/yrFGBLoOxlcWVhH.jpg" itemprop="image">
       </a>
     
@@ -327,6 +305,15 @@
     
 <nav id="article-nav">
   
+    <a href="/blog/2020/12/24/12-24%E7%BB%99%E5%8F%AD%E5%99%97%E7%9A%84%E7%94%9F%E8%B4%BA/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
+        
+          12/24 给叭噗的生贺!
+        
+      </div>
+    </a>
+  
   
     <a href="/blog/2020/12/17/12-17%E6%96%B0%E5%B9%B4/" id="article-nav-older" class="article-nav-link-wrap">
       <strong class="article-nav-caption">Older</strong>
@@ -474,9 +461,6 @@ setInterval("createtime()",250);
 
 
     <!-- headerblur min height -->
-    
-      var headerblur = document.getElementById("header-blur");
-      headerblur.style.minHeight = window.getComputedStyle(document.getElementById("allheader"), null).height;
     
 
 </script>
