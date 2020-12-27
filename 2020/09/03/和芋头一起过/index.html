@@ -91,9 +91,31 @@
 
   
 
+  <div class="site-header-image">
+    <img id="originBg" width="100%" alt="Hike News" src="">
+  </div>
+
+  <div id="header-blur" class="site-header-image blur" style="position: absolute; top:0; height: 207px; min-height: 207px; min-width: 100%;">
+    <img id="blurBg" width="100%" style="top: 96%" alt="Hike News" src="">
+  </div>
+
+  <script>
+        var imgUrls = "css/images/7.jpg".split(",");
+        var random = Math.floor((Math.random() * imgUrls.length ));
+        if (imgUrls[random].startsWith('http') || imgUrls[random].indexOf('://') >= 0) {
+          document.getElementById("originBg").src=imgUrls[random];
+          document.getElementById("blurBg").src=imgUrls[random];
+        } else {
+          document.getElementById("originBg").src='/blog/' + imgUrls[random];
+          document.getElementById("blurBg").src='/blog/' + imgUrls[random];
+        }
+    </script>
+
+
+
 
 <header id="allheader" class="site-header" role="banner"
-   >
+   style="width: 100%; position: absolute; top:0; background: rgba(255,255,255,.8);"  >
   <div class="clearfix container">
       <div class="site-branding">
 
@@ -150,7 +172,7 @@
 <div class="article-gallery">
   <div class="article-gallery-photos">
     
-      <a class="article-gallery-img fancybox" href="https://i.loli.net/2020/09/03/gRulrdcY8Spos2H.jpg" target="_blank" rel="gallery_ckj2vcy4g0032dhwu3rcz7kjr noopener">
+      <a class="article-gallery-img fancybox" href="https://i.loli.net/2020/09/03/gRulrdcY8Spos2H.jpg" target="_blank" rel="gallery_ckj76s1zn003kfbwudnk74u4h noopener">
         <img src="https://i.loli.net/2020/09/03/gRulrdcY8Spos2H.jpg" itemprop="image">
       </a>
     
@@ -482,6 +504,9 @@ setInterval("createtime()",250);
 
 
     <!-- headerblur min height -->
+    
+      var headerblur = document.getElementById("header-blur");
+      headerblur.style.minHeight = window.getComputedStyle(document.getElementById("allheader"), null).height;
     
 
 </script>
