@@ -82,31 +82,9 @@
 
   
 
-  <div class="site-header-image">
-    <img id="originBg" width="100%" alt="Hike News" src="">
-  </div>
-
-  <div id="header-blur" class="site-header-image blur" style="position: absolute; top:0; height: 207px; min-height: 207px; min-width: 100%;">
-    <img id="blurBg" width="100%" style="top: 96%" alt="Hike News" src="">
-  </div>
-
-  <script>
-        var imgUrls = "css/images/7.jpg".split(",");
-        var random = Math.floor((Math.random() * imgUrls.length ));
-        if (imgUrls[random].startsWith('http') || imgUrls[random].indexOf('://') >= 0) {
-          document.getElementById("originBg").src=imgUrls[random];
-          document.getElementById("blurBg").src=imgUrls[random];
-        } else {
-          document.getElementById("originBg").src='/blog/' + imgUrls[random];
-          document.getElementById("blurBg").src='/blog/' + imgUrls[random];
-        }
-    </script>
-
-
-
 
 <header id="allheader" class="site-header" role="banner"
-   style="width: 100%; position: absolute; top:0; background: rgba(255,255,255,.8);"  >
+   >
   <div class="clearfix container">
       <div class="site-branding">
 
@@ -189,12 +167,12 @@
       
         <p><img src="https://i.loli.net/2020/12/27/QGHr2bPa8NhtYDJ.jpg" alt="是做咖啡的摩卡壶!"></p>
 
-        <div id="aplayer-ObiZtJIe" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-yuKyTFOe" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-ObiZtJIe"),
+            element: document.getElementById("aplayer-yuKyTFOe"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -211,7 +189,8 @@
         </script>
 <p>一次休息更新 意思是用休息的心态画图和更新(?)</p>
 <p>小时候吃过一个咖啡布丁吃吐了, 以为长大以后会讨厌咖啡味一辈子, 去年的记账本上写着: <strong>想买个咖啡机</strong></p>
-<p>果然是人都逃不过真香定律</p>
+<p>果然是人都逃不过真香定律, 最近图真的有在画的</p>
+<p>还试着画了点黄图(…), 但都是不能发出来的那种级别的…()</p>
 
       
     </div>
@@ -869,9 +848,6 @@ setInterval("createtime()",250);
 
 
     <!-- headerblur min height -->
-    
-      var headerblur = document.getElementById("header-blur");
-      headerblur.style.minHeight = window.getComputedStyle(document.getElementById("allheader"), null).height;
     
 
 </script>
