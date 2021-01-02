@@ -6,7 +6,7 @@
   <link href="https://tototofoo.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://tototofoo.github.io/blog/"/>
-  <updated>2020-12-31T08:56:53.066Z</updated>
+  <updated>2021-01-02T12:57:40.137Z</updated>
   <id>https://tototofoo.github.io/blog/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>1/2 真的像个本子封面(.)</title>
+    <link href="https://tototofoo.github.io/blog/2021/01/02/2021-1-2/"/>
+    <id>https://tototofoo.github.io/blog/2021/01/02/2021-1-2/</id>
+    <published>2021-01-02T12:44:08.000Z</published>
+    <updated>2021-01-02T12:57:40.137Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://i.loli.net/2021/01/02/XyuEBKiwWVPna5F.jpg" alt="为什么会变成这样呢"></p><p>这事情还要从我听错一句话开始说起ry</p><p>无君出行是摩托车派, 他的个性好难把握, 能肯定下来的是个大吃货还有讨厌束缚感</p><p><strong>oversize爱好者</strong></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/blog/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/blog/assets/js/APlayer.m</summary>
+      
+    
+    
+    
+    <category term="illust" scheme="https://tototofoo.github.io/blog/categories/illust/"/>
+    
+    <category term="鱼干" scheme="https://tototofoo.github.io/blog/categories/illust/%E9%B1%BC%E5%B9%B2/"/>
+    
+    
+    <category term="無君" scheme="https://tototofoo.github.io/blog/tags/%E7%84%A1%E5%90%9B/"/>
+    
+  </entry>
   
   <entry>
     <title>12/31 年终杂谈</title>
@@ -71,7 +97,7 @@
     <published>2020-12-27T13:21:25.000Z</published>
     <updated>2020-12-28T04:15:48.191Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://i.loli.net/2020/12/27/QGHr2bPa8NhtYDJ.jpg" alt="是做咖啡的摩卡壶!"></p>        <div id="aplayer-xyGlLWhH" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-xyGlLWhH"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Island Vacation",              author: "cat naps",              url: "http://music.163.com/song/media/outer/url?id=1426940242.mp3",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>一次休息更新 意思是用休息的心态画图和更新(?)</p><p>小时候吃过一个咖啡布丁吃吐了, 以为长大以后会讨厌咖啡味一辈子, 去年的记账本上写着: <strong>想买个咖啡机</strong></p><p>果然是人都逃不过真香定律, 最近图真的有在画的</p><p>还试着画了点黄图(…), 但都是不能发出来的那种级别的…()</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://i.loli.net/2020/12/27/QGHr2bPa8NhtYDJ.jpg" alt="是做咖啡的摩卡壶!"></p>        <div id="aplayer-GulYACHF" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-GulYACHF"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Island Vacation",              author: "cat naps",              url: "http://music.163.com/song/media/outer/url?id=1426940242.mp3",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>一次休息更新 意思是用休息的心态画图和更新(?)</p><p>小时候吃过一个咖啡布丁吃吐了, 以为长大以后会讨厌咖啡味一辈子, 去年的记账本上写着: <strong>想买个咖啡机</strong></p><p>果然是人都逃不过真香定律, 最近图真的有在画的</p><p>还试着画了点黄图(…), 但都是不能发出来的那种级别的…()</p>]]></content>
     
     
       
@@ -181,9 +207,9 @@
     <category term="鱼干" scheme="https://tototofoo.github.io/blog/categories/illust/%E9%B1%BC%E5%B9%B2/"/>
     
     
-    <category term="动森" scheme="https://tototofoo.github.io/blog/tags/%E5%8A%A8%E6%A3%AE/"/>
-    
     <category term="暗室记录" scheme="https://tototofoo.github.io/blog/tags/%E6%9A%97%E5%AE%A4%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="动森" scheme="https://tototofoo.github.io/blog/tags/%E5%8A%A8%E6%A3%AE/"/>
     
   </entry>
   
@@ -209,9 +235,9 @@
     <category term="鱼干" scheme="https://tototofoo.github.io/blog/categories/illust/%E9%B1%BC%E5%B9%B2/"/>
     
     
-    <category term="动森" scheme="https://tototofoo.github.io/blog/tags/%E5%8A%A8%E6%A3%AE/"/>
-    
     <category term="暗室记录" scheme="https://tototofoo.github.io/blog/tags/%E6%9A%97%E5%AE%A4%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="动森" scheme="https://tototofoo.github.io/blog/tags/%E5%8A%A8%E6%A3%AE/"/>
     
   </entry>
   
@@ -410,7 +436,7 @@
     <published>2020-10-22T09:46:44.000Z</published>
     <updated>2020-10-22T14:22:06.981Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>我差点又鸽了周更, 惨…😨</p><p>堆点速涂吧(…)</p>        <div id="aplayer-zJisjaKQ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-zJisjaKQ"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "When I Turn Off The Living Room Lights",              author: "The Kinks",              url: "http://m128.xiami.net/0/0/2099365266/1773058096_14992476_l.mp3?auth_key=1603940400-0-0-0a9cbd81bd16e1fcf146d665c7fde4bc",              pic: "/blog/2020/10/22/1022/79.gif",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>奇想乐队的歌真不错(…)</p><img src="https://i.loli.net/2020/10/22/SvtwZrFmixLd3Mc.jpg" style="zoom:33%;"><p><img src="https://i.loli.net/2020/10/22/hIwEsFyqWafxSA5.jpg" alt></p><p><img src="https://i.loli.net/2020/10/22/8GsV9RIgD52t7cx.jpg" alt></p><p><img src="https://i.loli.net/2020/10/22/Ti386SL5zhNDARX.jpg" alt></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>我差点又鸽了周更, 惨…😨</p><p>堆点速涂吧(…)</p>        <div id="aplayer-Wvwncbij" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-Wvwncbij"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "When I Turn Off The Living Room Lights",              author: "The Kinks",              url: "http://m128.xiami.net/0/0/2099365266/1773058096_14992476_l.mp3?auth_key=1603940400-0-0-0a9cbd81bd16e1fcf146d665c7fde4bc",              pic: "/blog/2020/10/22/1022/79.gif",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>奇想乐队的歌真不错(…)</p><img src="https://i.loli.net/2020/10/22/SvtwZrFmixLd3Mc.jpg" style="zoom:33%;"><p><img src="https://i.loli.net/2020/10/22/hIwEsFyqWafxSA5.jpg" alt></p><p><img src="https://i.loli.net/2020/10/22/8GsV9RIgD52t7cx.jpg" alt></p><p><img src="https://i.loli.net/2020/10/22/Ti386SL5zhNDARX.jpg" alt></p>]]></content>
     
     
       
@@ -503,36 +529,6 @@
     
     
     <category term="杂记" scheme="https://tototofoo.github.io/blog/tags/%E6%9D%82%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>10/9 🤔🤔打包酒保的方法</title>
-    <link href="https://tototofoo.github.io/blog/2020/10/09/109%E8%80%81%E5%AE%89%E6%BC%AB%E7%94%BB/"/>
-    <id>https://tototofoo.github.io/blog/2020/10/09/109%E8%80%81%E5%AE%89%E6%BC%AB%E7%94%BB/</id>
-    <published>2020-10-09T09:44:08.000Z</published>
-    <updated>2020-10-09T13:44:03.988Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://i.loli.net/2020/10/09/B3XdkhmiEJCUvQ2.jpg" alt></p><p><img src="https://i.loli.net/2020/10/09/ExP78I9moOeS21r.jpg" alt></p><p>梗来自某部电影</p><p>叭噗说男主很像老安,  我当场表演一个把水喷出来, <strong>被塞进行李箱这种发展真的意外的, 真的好适合(…)</strong></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/blog/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/blog/assets/js/APlayer.m</summary>
-      
-    
-    
-    
-    <category term="illust" scheme="https://tototofoo.github.io/blog/categories/illust/"/>
-    
-    <category term="漫画" scheme="https://tototofoo.github.io/blog/categories/illust/%E6%BC%AB%E7%94%BB/"/>
-    
-    
-    <category term="安东尼" scheme="https://tototofoo.github.io/blog/tags/%E5%AE%89%E4%B8%9C%E5%B0%BC/"/>
-    
-    <category term="火柴人" scheme="https://tototofoo.github.io/blog/tags/%E7%81%AB%E6%9F%B4%E4%BA%BA/"/>
-    
-    <category term="漫画" scheme="https://tototofoo.github.io/blog/tags/%E6%BC%AB%E7%94%BB/"/>
     
   </entry>
   
