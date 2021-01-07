@@ -6,7 +6,7 @@
   <link href="https://tototofoo.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://tototofoo.github.io/blog/"/>
-  <updated>2021-01-02T12:57:40.137Z</updated>
+  <updated>2021-01-07T04:19:36.961Z</updated>
   <id>https://tototofoo.github.io/blog/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>1/6 这对话笑死我了</title>
+    <link href="https://tototofoo.github.io/blog/2021/01/06/1-6/"/>
+    <id>https://tototofoo.github.io/blog/2021/01/06/1-6/</id>
+    <published>2021-01-06T10:42:35.000Z</published>
+    <updated>2021-01-07T04:19:36.961Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://i.loli.net/2021/01/06/cQhlDSsuaXLywNZ.jpg" alt></p><p>新年新目标: 处事上更柔和, 圆润一些, 但内心还是要变强</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/blog/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/blog/assets/js/APlayer.m</summary>
+      
+    
+    
+    
+    <category term="illust" scheme="https://tototofoo.github.io/blog/categories/illust/"/>
+    
+    <category term="漫画" scheme="https://tototofoo.github.io/blog/categories/illust/%E6%BC%AB%E7%94%BB/"/>
+    
+    
+    <category term="动森" scheme="https://tototofoo.github.io/blog/tags/%E5%8A%A8%E6%A3%AE/"/>
+    
+  </entry>
   
   <entry>
     <title>1/2 真的像个本子封面(.)</title>
@@ -97,7 +123,7 @@
     <published>2020-12-27T13:21:25.000Z</published>
     <updated>2020-12-28T04:15:48.191Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://i.loli.net/2020/12/27/QGHr2bPa8NhtYDJ.jpg" alt="是做咖啡的摩卡壶!"></p>        <div id="aplayer-rSzZkwlA" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-rSzZkwlA"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Island Vacation",              author: "cat naps",              url: "http://music.163.com/song/media/outer/url?id=1426940242.mp3",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>一次休息更新 意思是用休息的心态画图和更新(?)</p><p>小时候吃过一个咖啡布丁吃吐了, 以为长大以后会讨厌咖啡味一辈子, 去年的记账本上写着: <strong>想买个咖啡机</strong></p><p>果然是人都逃不过真香定律, 最近图真的有在画的</p><p>还试着画了点黄图(…), 但都是不能发出来的那种级别的…()</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://i.loli.net/2020/12/27/QGHr2bPa8NhtYDJ.jpg" alt="是做咖啡的摩卡壶!"></p>        <div id="aplayer-EHpyizyh" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-EHpyizyh"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Island Vacation",              author: "cat naps",              url: "http://music.163.com/song/media/outer/url?id=1426940242.mp3",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>一次休息更新 意思是用休息的心态画图和更新(?)</p><p>小时候吃过一个咖啡布丁吃吐了, 以为长大以后会讨厌咖啡味一辈子, 去年的记账本上写着: <strong>想买个咖啡机</strong></p><p>果然是人都逃不过真香定律, 最近图真的有在画的</p><p>还试着画了点黄图(…), 但都是不能发出来的那种级别的…()</p>]]></content>
     
     
       
@@ -207,9 +233,9 @@
     <category term="鱼干" scheme="https://tototofoo.github.io/blog/categories/illust/%E9%B1%BC%E5%B9%B2/"/>
     
     
-    <category term="暗室记录" scheme="https://tototofoo.github.io/blog/tags/%E6%9A%97%E5%AE%A4%E8%AE%B0%E5%BD%95/"/>
-    
     <category term="动森" scheme="https://tototofoo.github.io/blog/tags/%E5%8A%A8%E6%A3%AE/"/>
+    
+    <category term="暗室记录" scheme="https://tototofoo.github.io/blog/tags/%E6%9A%97%E5%AE%A4%E8%AE%B0%E5%BD%95/"/>
     
   </entry>
   
@@ -235,9 +261,9 @@
     <category term="鱼干" scheme="https://tototofoo.github.io/blog/categories/illust/%E9%B1%BC%E5%B9%B2/"/>
     
     
-    <category term="暗室记录" scheme="https://tototofoo.github.io/blog/tags/%E6%9A%97%E5%AE%A4%E8%AE%B0%E5%BD%95/"/>
-    
     <category term="动森" scheme="https://tototofoo.github.io/blog/tags/%E5%8A%A8%E6%A3%AE/"/>
+    
+    <category term="暗室记录" scheme="https://tototofoo.github.io/blog/tags/%E6%9A%97%E5%AE%A4%E8%AE%B0%E5%BD%95/"/>
     
   </entry>
   
@@ -287,9 +313,9 @@
     <category term="gif" scheme="https://tototofoo.github.io/blog/categories/illust/gif/"/>
     
     
-    <category term="做的有的没的" scheme="https://tototofoo.github.io/blog/tags/%E5%81%9A%E7%9A%84%E6%9C%89%E7%9A%84%E6%B2%A1%E7%9A%84/"/>
-    
     <category term="动森" scheme="https://tototofoo.github.io/blog/tags/%E5%8A%A8%E6%A3%AE/"/>
+    
+    <category term="做的有的没的" scheme="https://tototofoo.github.io/blog/tags/%E5%81%9A%E7%9A%84%E6%9C%89%E7%9A%84%E6%B2%A1%E7%9A%84/"/>
     
   </entry>
   
@@ -436,7 +462,7 @@
     <published>2020-10-22T09:46:44.000Z</published>
     <updated>2020-10-22T14:22:06.981Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>我差点又鸽了周更, 惨…😨</p><p>堆点速涂吧(…)</p>        <div id="aplayer-koQquPCg" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-koQquPCg"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "When I Turn Off The Living Room Lights",              author: "The Kinks",              url: "http://m128.xiami.net/0/0/2099365266/1773058096_14992476_l.mp3?auth_key=1603940400-0-0-0a9cbd81bd16e1fcf146d665c7fde4bc",              pic: "/blog/2020/10/22/1022/79.gif",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>奇想乐队的歌真不错(…)</p><img src="https://i.loli.net/2020/10/22/SvtwZrFmixLd3Mc.jpg" style="zoom:33%;"><p><img src="https://i.loli.net/2020/10/22/hIwEsFyqWafxSA5.jpg" alt></p><p><img src="https://i.loli.net/2020/10/22/8GsV9RIgD52t7cx.jpg" alt></p><p><img src="https://i.loli.net/2020/10/22/Ti386SL5zhNDARX.jpg" alt></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>我差点又鸽了周更, 惨…😨</p><p>堆点速涂吧(…)</p>        <div id="aplayer-eSZkScaM" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-eSZkScaM"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "When I Turn Off The Living Room Lights",              author: "The Kinks",              url: "http://m128.xiami.net/0/0/2099365266/1773058096_14992476_l.mp3?auth_key=1603940400-0-0-0a9cbd81bd16e1fcf146d665c7fde4bc",              pic: "/blog/2020/10/22/1022/79.gif",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>奇想乐队的歌真不错(…)</p><img src="https://i.loli.net/2020/10/22/SvtwZrFmixLd3Mc.jpg" style="zoom:33%;"><p><img src="https://i.loli.net/2020/10/22/hIwEsFyqWafxSA5.jpg" alt></p><p><img src="https://i.loli.net/2020/10/22/8GsV9RIgD52t7cx.jpg" alt></p><p><img src="https://i.loli.net/2020/10/22/Ti386SL5zhNDARX.jpg" alt></p>]]></content>
     
     
       
@@ -503,32 +529,6 @@
     
     
     <category term="香蕉鱼" scheme="https://tototofoo.github.io/blog/tags/%E9%A6%99%E8%95%89%E9%B1%BC/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>10/12 记个梦</title>
-    <link href="https://tototofoo.github.io/blog/2020/10/12/1012%E9%9B%AA%E5%A4%A9/"/>
-    <id>https://tototofoo.github.io/blog/2020/10/12/1012%E9%9B%AA%E5%A4%A9/</id>
-    <published>2020-10-12T10:29:41.000Z</published>
-    <updated>2020-10-12T11:04:50.293Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://i.loli.net/2020/10/12/vPrbFoQiZJaY3LD.jpg" alt="藏了一只天使"></p><p>⛰</p><a id="more"></a><p>​昨晚梦见自己在mc世界里, 出生在雪山高地, 但是因为实在是太高了所以有点看不出是方块了.</p><p>​山底下全是草丛植物, 依稀记得有很多死掉的曼珠沙华, 一直逃一直逃也不知道在躲什么.</p><p>​中间找到一间木头做的小屋, 里面没有人, 只感觉挺可怕的.</p><p>​最后的场景是突然一束太阳光照到满地死掉的植物上面,  到最后还是没找到人.</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://i.loli.net/2020/10/12/vPrbFoQiZJaY3LD.jpg&quot; alt=&quot;藏了一只天使&quot;&gt;&lt;/p&gt;
-&lt;p&gt;⛰&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="illust" scheme="https://tototofoo.github.io/blog/categories/illust/"/>
-    
-    <category term="log" scheme="https://tototofoo.github.io/blog/categories/log/"/>
-    
-    <category term="鱼干" scheme="https://tototofoo.github.io/blog/categories/illust/%E9%B1%BC%E5%B9%B2/"/>
-    
-    
-    <category term="杂记" scheme="https://tototofoo.github.io/blog/tags/%E6%9D%82%E8%AE%B0/"/>
     
   </entry>
   
