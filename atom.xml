@@ -6,7 +6,7 @@
   <link href="https://tototofoo.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://tototofoo.github.io/blog/"/>
-  <updated>2021-01-15T14:05:47.873Z</updated>
+  <updated>2021-01-21T08:23:29.892Z</updated>
   <id>https://tototofoo.github.io/blog/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>1/21 歇歇</title>
+    <link href="https://tototofoo.github.io/blog/2021/01/21/1-21/"/>
+    <id>https://tototofoo.github.io/blog/2021/01/21/1-21/</id>
+    <published>2021-01-21T08:10:05.000Z</published>
+    <updated>2021-01-21T08:23:29.892Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://i.loli.net/2021/01/21/UNFxkcMQHfWn1tG.jpg" alt></p><p>画分镜人画傻了 连摸鱼都变成了休闲jpg</p><p>看来即使是画图各领域用的力气也不同</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/blog/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/blog/assets/js/APlayer.m</summary>
+      
+    
+    
+    
+    <category term="illust" scheme="https://tototofoo.github.io/blog/categories/illust/"/>
+    
+    <category term="鱼干" scheme="https://tototofoo.github.io/blog/categories/illust/%E9%B1%BC%E5%B9%B2/"/>
+    
+    
+    <category term="同人" scheme="https://tototofoo.github.io/blog/tags/%E5%90%8C%E4%BA%BA/"/>
+    
+    <category term="动森" scheme="https://tototofoo.github.io/blog/tags/%E5%8A%A8%E6%A3%AE/"/>
+    
+  </entry>
   
   <entry>
     <title>1/15 mob</title>
@@ -199,7 +227,7 @@
     <published>2020-12-27T13:21:25.000Z</published>
     <updated>2020-12-28T04:15:48.191Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://i.loli.net/2020/12/27/QGHr2bPa8NhtYDJ.jpg" alt="是做咖啡的摩卡壶!"></p>        <div id="aplayer-TVwdpRDg" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-TVwdpRDg"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Island Vacation",              author: "cat naps",              url: "http://music.163.com/song/media/outer/url?id=1426940242.mp3",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>一次休息更新 意思是用休息的心态画图和更新(?)</p><p>小时候吃过一个咖啡布丁吃吐了, 以为长大以后会讨厌咖啡味一辈子, 去年的记账本上写着: <strong>想买个咖啡机</strong></p><p>果然是人都逃不过真香定律, 最近图真的有在画的</p><p>还试着画了点黄图(…), 但都是不能发出来的那种级别的…()</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://i.loli.net/2020/12/27/QGHr2bPa8NhtYDJ.jpg" alt="是做咖啡的摩卡壶!"></p>        <div id="aplayer-fkzuGBqv" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-fkzuGBqv"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Island Vacation",              author: "cat naps",              url: "http://music.163.com/song/media/outer/url?id=1426940242.mp3",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>一次休息更新 意思是用休息的心态画图和更新(?)</p><p>小时候吃过一个咖啡布丁吃吐了, 以为长大以后会讨厌咖啡味一辈子, 去年的记账本上写着: <strong>想买个咖啡机</strong></p><p>果然是人都逃不过真香定律, 最近图真的有在画的</p><p>还试着画了点黄图(…), 但都是不能发出来的那种级别的…()</p>]]></content>
     
     
       
@@ -309,9 +337,9 @@
     <category term="鱼干" scheme="https://tototofoo.github.io/blog/categories/illust/%E9%B1%BC%E5%B9%B2/"/>
     
     
-    <category term="暗室记录" scheme="https://tototofoo.github.io/blog/tags/%E6%9A%97%E5%AE%A4%E8%AE%B0%E5%BD%95/"/>
-    
     <category term="动森" scheme="https://tototofoo.github.io/blog/tags/%E5%8A%A8%E6%A3%AE/"/>
+    
+    <category term="暗室记录" scheme="https://tototofoo.github.io/blog/tags/%E6%9A%97%E5%AE%A4%E8%AE%B0%E5%BD%95/"/>
     
   </entry>
   
@@ -337,9 +365,9 @@
     <category term="鱼干" scheme="https://tototofoo.github.io/blog/categories/illust/%E9%B1%BC%E5%B9%B2/"/>
     
     
-    <category term="暗室记录" scheme="https://tototofoo.github.io/blog/tags/%E6%9A%97%E5%AE%A4%E8%AE%B0%E5%BD%95/"/>
-    
     <category term="动森" scheme="https://tototofoo.github.io/blog/tags/%E5%8A%A8%E6%A3%AE/"/>
+    
+    <category term="暗室记录" scheme="https://tototofoo.github.io/blog/tags/%E6%9A%97%E5%AE%A4%E8%AE%B0%E5%BD%95/"/>
     
   </entry>
   
@@ -502,32 +530,6 @@
     
     
     <category term="flag" scheme="https://tototofoo.github.io/blog/tags/flag/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>10/23是华裔混混帮老大(啥啊)</title>
-    <link href="https://tototofoo.github.io/blog/2020/10/23/10:23%E6%98%AF%E5%8D%8E%E8%A3%94%E6%B7%B7%E6%B7%B7%E5%B8%AE%E8%80%81%E5%A4%A7(%E5%95%A5%E5%95%8A)/"/>
-    <id>https://tototofoo.github.io/blog/2020/10/23/10:23%E6%98%AF%E5%8D%8E%E8%A3%94%E6%B7%B7%E6%B7%B7%E5%B8%AE%E8%80%81%E5%A4%A7(%E5%95%A5%E5%95%8A)/</id>
-    <published>2020-10-23T13:13:01.000Z</published>
-    <updated>2020-10-24T03:11:53.507Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://i.loli.net/2020/10/23/hfsFB5ZGX6bO32o.jpg" alt></p><p><strong>漫画一直穿着吊嘎来着</strong></p><p>但是动画里面换好多套衣服啊!! 有种大男孩的感觉</p><p><img src="https://i.loli.net/2020/10/23/QSy4n3Ivg15xTCO.jpg" alt="随便画了个小剧场"></p><p>炒面是真的很好吃啊!!! 我好想吃UFO炒面…</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/blog/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/blog/assets/js/APlayer.m</summary>
-      
-    
-    
-    
-    <category term="illust" scheme="https://tototofoo.github.io/blog/categories/illust/"/>
-    
-    <category term="鱼干" scheme="https://tototofoo.github.io/blog/categories/illust/%E9%B1%BC%E5%B9%B2/"/>
-    
-    
-    <category term="香蕉鱼" scheme="https://tototofoo.github.io/blog/tags/%E9%A6%99%E8%95%89%E9%B1%BC/"/>
     
   </entry>
   
