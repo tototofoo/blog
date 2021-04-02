@@ -6,7 +6,7 @@
   <link href="https://tototofoo.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://tototofoo.github.io/blog/"/>
-  <updated>2021-04-02T07:37:47.405Z</updated>
+  <updated>2021-04-02T14:15:30.561Z</updated>
   <id>https://tototofoo.github.io/blog/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>4/2 风</title>
+    <link href="https://tototofoo.github.io/blog/2021/04/02/4-2-1/"/>
+    <id>https://tototofoo.github.io/blog/2021/04/02/4-2-1/</id>
+    <published>2021-04-02T14:10:41.000Z</published>
+    <updated>2021-04-02T14:15:30.561Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://gitee.com/tototaro/images/raw/master/test/20210402221105.jpg" alt></p><p>背景有参考 是灰濑</p><p>摸鱼混一混</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/blog/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/blog/assets/js/APlayer.m</summary>
+      
+    
+    
+    
+    <category term="illust" scheme="https://tototofoo.github.io/blog/categories/illust/"/>
+    
+    <category term="鱼干" scheme="https://tototofoo.github.io/blog/categories/illust/%E9%B1%BC%E5%B9%B2/"/>
+    
+    
+    <category term="暗室记录" scheme="https://tototofoo.github.io/blog/tags/%E6%9A%97%E5%AE%A4%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="灰濑" scheme="https://tototofoo.github.io/blog/tags/%E7%81%B0%E6%BF%91/"/>
+    
+  </entry>
   
   <entry>
     <title>4/2 给噗的同人合集</title>
@@ -128,7 +156,7 @@
     <published>2021-03-17T03:57:37.000Z</published>
     <updated>2021-03-17T05:51:15.086Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>图太大了传不上就直接放链接好了</p><p>​<a id="more"></a></p><h2 id="漫画"><a class="header-anchor" href="#漫画">☆</a>漫画</h2><p><a href="https://uxddd.lofter.com/post/1cae1417_1cbbc0766" target="_blank" rel="noopener">全览</a></p><h2 id="附带杂谈"><a class="header-anchor" href="#附带杂谈">☆</a>附带杂谈</h2>        <div id="aplayer-RpTCKbLN" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-RpTCKbLN"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Enter Hallownest",              author: "Christopher Larkin",              url: "http://music.163.com/song/media/outer/url?id=1309394487.mp3",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>​是突发画的同人漫画, 缘由是第一次戴耳机认真听了HK的bgm, 实在是大受感动…</p><p>​(是音乐源动力型人了)</p><p>​虽然没玩过魂系列的游戏, 但似乎这类游戏的剧情都埋的相当隐晦, 从小就开始玩横版2d的我对这种好感度还是加成很高的. 跑白宫那张地图的时候因为注意力都在过电锯上面, 满脑子都是滋儿哇, 后来单独去听里面的音乐才发现原来这么精妙.</p><p>​能够构建完整的一个世界, 虽然打的时候感觉npc有点谜语人, 但耐不住boss战实在是太棒了.</p><p>​画的有点长还是有点累, 好歹画完了…! (明明说不想画条漫但还是, 我身体好正直)</p><p>​屑沃姆的叉子头再也不想画了!!!</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>图太大了传不上就直接放链接好了</p><p>​<a id="more"></a></p><h2 id="漫画"><a class="header-anchor" href="#漫画">☆</a>漫画</h2><p><a href="https://uxddd.lofter.com/post/1cae1417_1cbbc0766" target="_blank" rel="noopener">全览</a></p><h2 id="附带杂谈"><a class="header-anchor" href="#附带杂谈">☆</a>附带杂谈</h2>        <div id="aplayer-BYZyPMeY" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-BYZyPMeY"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Enter Hallownest",              author: "Christopher Larkin",              url: "http://music.163.com/song/media/outer/url?id=1309394487.mp3",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>​是突发画的同人漫画, 缘由是第一次戴耳机认真听了HK的bgm, 实在是大受感动…</p><p>​(是音乐源动力型人了)</p><p>​虽然没玩过魂系列的游戏, 但似乎这类游戏的剧情都埋的相当隐晦, 从小就开始玩横版2d的我对这种好感度还是加成很高的. 跑白宫那张地图的时候因为注意力都在过电锯上面, 满脑子都是滋儿哇, 后来单独去听里面的音乐才发现原来这么精妙.</p><p>​能够构建完整的一个世界, 虽然打的时候感觉npc有点谜语人, 但耐不住boss战实在是太棒了.</p><p>​画的有点长还是有点累, 好歹画完了…! (明明说不想画条漫但还是, 我身体好正直)</p><p>​屑沃姆的叉子头再也不想画了!!!</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;图太大了传不上就直接放链接好了&lt;/p&gt;
@@ -156,7 +184,7 @@
     <published>2021-03-10T10:24:01.000Z</published>
     <updated>2021-03-19T08:29:31.874Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>图随便弄的 内收一些摘记</p><p>​<a id="more"></a></p><p><img src="https://i.loli.net/2021/03/19/wfDs5GSNYEvAJb2.jpg" alt="139.jpg"></p>        <div id="aplayer-nJsTgcrR" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-nJsTgcrR"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "一如往常",              author: "逃走鲍勃",              url: "http://music.163.com/song/media/outer/url?id=1415697454.mp3",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>引用均来自于&lt;圈外编辑&gt;(都筑响一)</p><blockquote><p><em>找到自己喜欢的书, 仔细地将它读进心里…试着模仿它们做出书就好了.</em></p><p><em>尽可能靠自己做书才是最重要的,多做一本是一本.</em></p></blockquote><p>最开始的起点都是模仿.</p><blockquote><p><em>…对创作者来说就不是那么回事了, 后者应该要找出看一百遍也会感动的电影, 一看再看, 把它变成自己的一部分, 这应该比看一大堆片还要重要许多.</em></p></blockquote><p>评论家和创作者的差别, 大量的阅片适合评论家, 而也许创作者不需要看那么多.</p><blockquote><p><em>二流实践者比一流评论家更了不起</em></p></blockquote><blockquote><p><em>照片彰显出摄影师意念的程度意外的高</em></p></blockquote><p>谈到的是建筑摄影, 选用不同的相机和拍摄方式能够暴露摄影师的内心, 颠覆了我对摄影的一部分偏见, 作者会怀着庄重认真的心情去拍摄蜗居人的房间, 即使拍摄的是同一个场景, 不同人的结果也非常不同.</p><p>从未想过这点.</p><blockquote><p><em>独立网络之外的现实社交网络是存在的, 而且就存在于我们一同生活的这一个空间.</em></p></blockquote><p>以老人的生活圈为例子, 老人的交流很少用到网络, 网络的过度使用反而使人误解为信息的全部不过如此, 但实际上现实中的社交网络暗藏的信息非常多.</p><p>第一反应就去依赖网络是不行的啊.</p><blockquote><p><em>我的目标是, 以一般读者代表而非特定领域狂热者的身份发问, 写出的报道要让原本对该主题一无所知的人读了也会感兴趣, 会想去那地方看看, 想见见那个人.</em></p></blockquote><p>真好…</p><blockquote><p><em>&quot;能画&quot;跟&quot;画得出东西&quot;是不一样的.起跑后的辛苦跟过往没有差别.就是因为这样, 创作表现才会如此有趣吧, 要做出别人做不出的东西永远是困难的.</em></p></blockquote><p>谈到技术发展后, 对创作的感想.</p><p>这本两天就看完了, 最近习惯做事什么音乐和声音都不放了, 自己太容易受到音乐的鼓动所以总是忍不住想蹦迪(考)</p><p>这位作者编辑很喜欢做很小众的题材, 比如暴走族和情人旅馆的设计, 做东西的源动力居然是&quot;明明题材就在那里, 别人都没有做, 只能自己去做了&quot;, 真是强者的思维…!</p><p>其中还有写到, 明明大部分人的生活都没有豪宅和名牌衣服, 杂志上却不断报道着这些, 明明是很脱离实际现实的专栏, 却很少有人指出这点.</p><p>没有什么爱看书的人越来越少, 杀死纸媒体的就是编辑自己, 做出重复而且无聊内容的同样也是他们自己.</p><p>全书想表达的都是没有什么事物理应高别的一等, 也没有什么事物理应自卑.</p><p>真是自由又快乐.</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>图随便弄的 内收一些摘记</p><p>​<a id="more"></a></p><p><img src="https://i.loli.net/2021/03/19/wfDs5GSNYEvAJb2.jpg" alt="139.jpg"></p>        <div id="aplayer-jNzyoulu" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-jNzyoulu"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "一如往常",              author: "逃走鲍勃",              url: "http://music.163.com/song/media/outer/url?id=1415697454.mp3",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>引用均来自于&lt;圈外编辑&gt;(都筑响一)</p><blockquote><p><em>找到自己喜欢的书, 仔细地将它读进心里…试着模仿它们做出书就好了.</em></p><p><em>尽可能靠自己做书才是最重要的,多做一本是一本.</em></p></blockquote><p>最开始的起点都是模仿.</p><blockquote><p><em>…对创作者来说就不是那么回事了, 后者应该要找出看一百遍也会感动的电影, 一看再看, 把它变成自己的一部分, 这应该比看一大堆片还要重要许多.</em></p></blockquote><p>评论家和创作者的差别, 大量的阅片适合评论家, 而也许创作者不需要看那么多.</p><blockquote><p><em>二流实践者比一流评论家更了不起</em></p></blockquote><blockquote><p><em>照片彰显出摄影师意念的程度意外的高</em></p></blockquote><p>谈到的是建筑摄影, 选用不同的相机和拍摄方式能够暴露摄影师的内心, 颠覆了我对摄影的一部分偏见, 作者会怀着庄重认真的心情去拍摄蜗居人的房间, 即使拍摄的是同一个场景, 不同人的结果也非常不同.</p><p>从未想过这点.</p><blockquote><p><em>独立网络之外的现实社交网络是存在的, 而且就存在于我们一同生活的这一个空间.</em></p></blockquote><p>以老人的生活圈为例子, 老人的交流很少用到网络, 网络的过度使用反而使人误解为信息的全部不过如此, 但实际上现实中的社交网络暗藏的信息非常多.</p><p>第一反应就去依赖网络是不行的啊.</p><blockquote><p><em>我的目标是, 以一般读者代表而非特定领域狂热者的身份发问, 写出的报道要让原本对该主题一无所知的人读了也会感兴趣, 会想去那地方看看, 想见见那个人.</em></p></blockquote><p>真好…</p><blockquote><p><em>&quot;能画&quot;跟&quot;画得出东西&quot;是不一样的.起跑后的辛苦跟过往没有差别.就是因为这样, 创作表现才会如此有趣吧, 要做出别人做不出的东西永远是困难的.</em></p></blockquote><p>谈到技术发展后, 对创作的感想.</p><p>这本两天就看完了, 最近习惯做事什么音乐和声音都不放了, 自己太容易受到音乐的鼓动所以总是忍不住想蹦迪(考)</p><p>这位作者编辑很喜欢做很小众的题材, 比如暴走族和情人旅馆的设计, 做东西的源动力居然是&quot;明明题材就在那里, 别人都没有做, 只能自己去做了&quot;, 真是强者的思维…!</p><p>其中还有写到, 明明大部分人的生活都没有豪宅和名牌衣服, 杂志上却不断报道着这些, 明明是很脱离实际现实的专栏, 却很少有人指出这点.</p><p>没有什么爱看书的人越来越少, 杀死纸媒体的就是编辑自己, 做出重复而且无聊内容的同样也是他们自己.</p><p>全书想表达的都是没有什么事物理应高别的一等, 也没有什么事物理应自卑.</p><p>真是自由又快乐.</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;图随便弄的 内收一些摘记&lt;/p&gt;
@@ -166,9 +194,9 @@
     
     <category term="illust" scheme="https://tototofoo.github.io/blog/categories/illust/"/>
     
-    <category term="log" scheme="https://tototofoo.github.io/blog/categories/log/"/>
-    
     <category term="鱼干" scheme="https://tototofoo.github.io/blog/categories/illust/%E9%B1%BC%E5%B9%B2/"/>
+    
+    <category term="log" scheme="https://tototofoo.github.io/blog/categories/log/"/>
     
     
     <category term="一些书" scheme="https://tototofoo.github.io/blog/tags/%E4%B8%80%E4%BA%9B%E4%B9%A6/"/>
@@ -304,7 +332,7 @@
     <published>2021-02-01T05:55:28.000Z</published>
     <updated>2021-02-01T06:49:26.871Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>总算参加了一次</p><a id="more"></a>        <div id="aplayer-HMFhjICY" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-HMFhjICY"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "SOLO",              author: "SPiCYSOL",              url: "http://music.163.com/song/media/outer/url?id=1339947574.mp3",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><blockquote><p>砍人游戏 点开即玩→ <a href="https://narcissus-two.vercel.app" target="_blank" rel="noopener">https://narcissus-two.vercel.app</a></p></blockquote><p><img src="https://i.loli.net/2021/02/01/CP2ZbwNV3lgOsKf.gif" alt></p><p><img src="https://i.loli.net/2021/02/01/K5w31CPQ6WRSiVu.gif" alt></p><p>​极限48小时的游戏活动, 一直很想参加, 今年终于(终于!!)</p><p>​由另一个朋友负责文本, 我负责美术(指四个小时随便画图), 以此做个记录.</p><p>​本来是打算自己一个人solo的, 做一个短故事和几个结局的互动小说就好, 最后居然拉到了队友,  是新的进步…!</p><p>​文本上, 我能够理解的时间不太多, 但大致用我自己的个人想法去演绎了, 本质是隐喻很多的故事, 理解的方式也有很多, 和我平时自己创作的有明确主题的故事有很大区别, 更接近于意识流的表现和一次实验性尝试.</p><p>​※以下都只是一面之词</p><p>​我觉得主人公是被孤立的个体, 心理上有异常症状, 症状的表现很怪异,  穿插的大量心理描写, 很有意思.</p><p>​这是和我平时不同的心理描写, 如果是我, 可能会用更日常的话语来表现这个人的&quot;怪异&quot;和端倪之处, 所以思索, 思索到要不要加入对话框来使其更清晰, 肯定违和感爆棚吧, 毕竟本体是文字.</p><p>​画的时候没有想太多, 可能是满脑子&quot;画的这么暗大概就显得很nb而且不会纠结于细节了&quot;这样的想法!! 浅色系短时间画不出来, 给自己限定的大概十五分钟完成一张的样子,  还好最后还算安稳着陆, 很久没这么随意画画过了.</p><p>​中间有刻意靠近猎奇的精神污染的想法, 玩的还算蛮开心的, 画的歪歪扭扭也没人会在意, 线条发抖也无所谓了, 颜色乱七八糟也无所谓了, 甚至有个gif还掉了一帧也无所谓了!!</p><p>​保持和咬一块蛋糕一样的心情就好, 正经人和正经事做多了, 总会暴露最真实最一无所有的自己, 没弄砸就应该开个趴体庆祝一下.</p><p>​没什么特别深的感悟, 就到此为止. 下次再见</p><p>PS: 还是get到了罪与罚的梗和卡夫卡的引文, 书还是没白看的!!</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>总算参加了一次</p><a id="more"></a>        <div id="aplayer-YiWCBIuv" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-YiWCBIuv"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "SOLO",              author: "SPiCYSOL",              url: "http://music.163.com/song/media/outer/url?id=1339947574.mp3",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><blockquote><p>砍人游戏 点开即玩→ <a href="https://narcissus-two.vercel.app" target="_blank" rel="noopener">https://narcissus-two.vercel.app</a></p></blockquote><p><img src="https://i.loli.net/2021/02/01/CP2ZbwNV3lgOsKf.gif" alt></p><p><img src="https://i.loli.net/2021/02/01/K5w31CPQ6WRSiVu.gif" alt></p><p>​极限48小时的游戏活动, 一直很想参加, 今年终于(终于!!)</p><p>​由另一个朋友负责文本, 我负责美术(指四个小时随便画图), 以此做个记录.</p><p>​本来是打算自己一个人solo的, 做一个短故事和几个结局的互动小说就好, 最后居然拉到了队友,  是新的进步…!</p><p>​文本上, 我能够理解的时间不太多, 但大致用我自己的个人想法去演绎了, 本质是隐喻很多的故事, 理解的方式也有很多, 和我平时自己创作的有明确主题的故事有很大区别, 更接近于意识流的表现和一次实验性尝试.</p><p>​※以下都只是一面之词</p><p>​我觉得主人公是被孤立的个体, 心理上有异常症状, 症状的表现很怪异,  穿插的大量心理描写, 很有意思.</p><p>​这是和我平时不同的心理描写, 如果是我, 可能会用更日常的话语来表现这个人的&quot;怪异&quot;和端倪之处, 所以思索, 思索到要不要加入对话框来使其更清晰, 肯定违和感爆棚吧, 毕竟本体是文字.</p><p>​画的时候没有想太多, 可能是满脑子&quot;画的这么暗大概就显得很nb而且不会纠结于细节了&quot;这样的想法!! 浅色系短时间画不出来, 给自己限定的大概十五分钟完成一张的样子,  还好最后还算安稳着陆, 很久没这么随意画画过了.</p><p>​中间有刻意靠近猎奇的精神污染的想法, 玩的还算蛮开心的, 画的歪歪扭扭也没人会在意, 线条发抖也无所谓了, 颜色乱七八糟也无所谓了, 甚至有个gif还掉了一帧也无所谓了!!</p><p>​保持和咬一块蛋糕一样的心情就好, 正经人和正经事做多了, 总会暴露最真实最一无所有的自己, 没弄砸就应该开个趴体庆祝一下.</p><p>​没什么特别深的感悟, 就到此为止. 下次再见</p><p>PS: 还是get到了罪与罚的梗和卡夫卡的引文, 书还是没白看的!!</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;总算参加了一次&lt;/p&gt;</summary>
@@ -314,9 +342,9 @@
     <category term="log" scheme="https://tototofoo.github.io/blog/categories/log/"/>
     
     
-    <category term="杂记" scheme="https://tototofoo.github.io/blog/tags/%E6%9D%82%E8%AE%B0/"/>
-    
     <category term="做的有的没的" scheme="https://tototofoo.github.io/blog/tags/%E5%81%9A%E7%9A%84%E6%9C%89%E7%9A%84%E6%B2%A1%E7%9A%84/"/>
+    
+    <category term="杂记" scheme="https://tototofoo.github.io/blog/tags/%E6%9D%82%E8%AE%B0/"/>
     
   </entry>
   
@@ -366,9 +394,9 @@
     <category term="鱼干" scheme="https://tototofoo.github.io/blog/categories/illust/%E9%B1%BC%E5%B9%B2/"/>
     
     
-    <category term="同人" scheme="https://tototofoo.github.io/blog/tags/%E5%90%8C%E4%BA%BA/"/>
-    
     <category term="动森" scheme="https://tototofoo.github.io/blog/tags/%E5%8A%A8%E6%A3%AE/"/>
+    
+    <category term="同人" scheme="https://tototofoo.github.io/blog/tags/%E5%90%8C%E4%BA%BA/"/>
     
   </entry>
   
@@ -497,29 +525,6 @@
     
     
     <category term="無君" scheme="https://tototofoo.github.io/blog/tags/%E7%84%A1%E5%90%9B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>12/31 年终杂谈</title>
-    <link href="https://tototofoo.github.io/blog/2020/12/31/12-31%E5%B9%B4%E7%BB%88%E6%9D%82%E8%B0%88/"/>
-    <id>https://tototofoo.github.io/blog/2020/12/31/12-31%E5%B9%B4%E7%BB%88%E6%9D%82%E8%B0%88/</id>
-    <published>2020-12-31T06:12:33.000Z</published>
-    <updated>2020-12-31T08:56:53.066Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>​年终唠嗑一些个人杂谈. 记录一下会逝去但是存在过的时光.</p><a id="more"></a><blockquote><p>I’m looking at the world go by</p><p>Just sitting in the midday sun</p><p>Just soaking up that currant bun</p><p>我感受着世界在流逝 只是坐在正午的阳光下  只是享受着手中的葡萄干</p><p>– 奇想乐队</p></blockquote><h2 id="煎饼果子"><a class="header-anchor" href="#煎饼果子">☆</a>煎饼果子</h2><p>社会在内卷, 每个人的生活都内卷, 今年房租涨了几百, 本来满脑子想着&quot;尽快找到工作就搬离这个地方吧&quot;, 看来还是不要对自己做预测的好.</p><p>别说搬了, 工作也不想找了.</p><p>在哪里打工都没有意义, 在高楼大厦也好在楼下摊煎饼果子也好, 我可能会觉得煎饼果子更自由一些.</p><p>至少能决定的是那个面饼长什么样, 自己离开了创造性活动果然还是不行. 算是今年新得到的对于自己的认知.</p><h2 id="漫画"><a class="header-anchor" href="#漫画">☆</a>漫画</h2><p>夏天熬了两个通宵两天只睡了四个小时, 用身体体会到了漫画家的劳苦.</p><p>以前觉得日本周刊一次更新20页左右, 一天要完成3到4页, 有助手的情况下可能冲一把能做得到, 在国内的行情很多是月刊, 一般也是20页到30页, 那时候觉得每天完成一页, 还可以呆在家自由控制时间, 其实还是挺舒服的, 完全忘记了自己对漫画的偏执, 完全不是画完一张就好啊!!!</p><p>比起去画图, 思考的时间实际上占据了更多, 常常要提醒自己少动笔多想想怎么动笔.</p><p>市场是残酷的, 只能拥有被人评判批评的勇气, 以及一点傲气和自恋才能画的下去, 想起很久以前看过某个前辈说过&quot;画漫画的人都是顶级骗子&quot;的说法, 其实挺有理的.</p><p>给一个国内的漫画教材编写老师发了一封邮件, 然后没有回应. 但是发完之后感觉到自己能够慢慢找到自己的答案.</p><h2 id="精力善用-自他共荣"><a class="header-anchor" href="#精力善用-自他共荣">☆</a>精力善用, 自他共荣</h2><p>时隔很久看完了&lt;重版出来&gt;, 讲漫画编辑部的日剧, 我对于打鸡血一样的日剧多少有点看笑话的意思, 但还好越到后面几集收获越多, 印象最深的台词是:</p><p><strong>&quot;精力善用, 自他共荣&quot;</strong></p><blockquote><p>最大限度运用好自己的力量, 品行端正, 尊重和感谢他人, 如果双方能够互相信赖就可以共生共存.</p></blockquote><p>说的是编辑和漫画家的关系, 一种奇怪纠结痛苦快乐又深刻的羁绊, 打到这里突然觉得编辑会不会有点像情人wwww(突然打电话找上门的意义上🤣)</p><p>作为社会性的人类之一, 即使自己不喜欢太多的社交, 但也是希望自己能够与人的合作愉快的, 接下来的目标就是这个了吧.</p><p>代入感在中田伯和沼田渡各有一部分, 在讲到后者放弃梦想这一回的时候, 我觉得两个人的心情我都能体会得很深.</p><p>“我是我, 不会变成其他人, 更不会连着别人的份和梦想一起努力”</p><p>“我以为我自己和别人不一样, 一直在逃避自己的问题, 事到如今才面对真正的自己.”</p><img src="https://i.loli.net/2020/12/30/Idmw91gyhJjuBr5.jpg" style="zoom: 50%;"><h2 id="偷懒的技巧"><a class="header-anchor" href="#偷懒的技巧">☆</a>偷懒的技巧</h2><p>今年减少了散步的次数, 身体变懒了, 开始整理自己的思绪.</p><p>以前散步都是寻找灵感的一种方式, 现在觉得积累的差不多, 可以开始慢慢发散开来, 修修补补一些思考了.</p><p>于是看了一点讲怎么偷懒的书籍, 用偷懒的方式看完了, 学到了一点偷懒技巧.</p><p>努力后意识到人的精力是有限的, 虽然也可以用时间管理大师的思维去填满时光, 但是还是选择削减了自己的爱好, 今年在火车上默默做了一个决定, 那就是只认真对待画画和音乐两件事, 其他的顺其自然就好.</p><p>认真专注于一件事和休息, 其实比想象中的还要充实一些.</p><h2 id="时限"><a class="header-anchor" href="#时限">☆</a>时限</h2><p>给很多重要的事都设立了大概的时限.</p><p>要走出去, 要攒够钱, 之类的目标, 其实也不一定会认真严格的执行, 但是有机会会抓住, 有冒险就去冒险, 有可能性就去研究, 有路就去散步.</p><p>自己独处的时间有很多, 这时候诞生的想法总觉得是最棒的.</p><h2 id="跑火车"><a class="header-anchor" href="#跑火车">☆</a>跑火车</h2><p>希望明年能做点别人做不到的事情, 能多画点怪漫画.</p><p>希望身体健康, 肠胃能好点, 天冷别再冻手冻脚冻耳朵之类的.</p><p>最后是继续认真记录自己的东西.</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;​	年终唠嗑一些个人杂谈. 记录一下会逝去但是存在过的时光.&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="log" scheme="https://tototofoo.github.io/blog/categories/log/"/>
-    
-    
-    <category term="日常" scheme="https://tototofoo.github.io/blog/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-    <category term="杂记" scheme="https://tototofoo.github.io/blog/tags/%E6%9D%82%E8%AE%B0/"/>
     
   </entry>
   
