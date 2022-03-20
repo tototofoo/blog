@@ -4,7 +4,7 @@
 
 .chip-container .tag-title {
     margin-bottom: 10px;
-    color: #FF4500;
+    color: #F781BE;
     font-size: 1.75rem;
     font-weight: 400;
 }
@@ -20,7 +20,7 @@
 }
 
 .chip-container .chip-default {
-    color: #FF4500;
+    color: #F781BE;
 }
 
 .chip-container .chip-active {
@@ -54,7 +54,7 @@
 }
 
 .chip-default .tag-length {
-    color: #FF4500;
+    color: #F781BE;
     margin-top: 1px;
 }
 
