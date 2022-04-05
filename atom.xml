@@ -6,7 +6,7 @@
   <link href="https://tototofoo.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://tototofoo.github.io/blog/"/>
-  <updated>2022-03-27T12:48:05.566Z</updated>
+  <updated>2022-03-30T09:25:38.101Z</updated>
   <id>https://tototofoo.github.io/blog/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://tototofoo.github.io/blog/2022/03/27/2022/3-27/"/>
     <id>https://tototofoo.github.io/blog/2022/03/27/2022/3-27/</id>
     <published>2022-03-27T11:59:46.000Z</published>
-    <updated>2022-03-27T12:48:05.566Z</updated>
+    <updated>2022-03-30T09:25:38.101Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>​.</p><span id="more"></span><p><img src="https://cdn.jsdelivr.net/gh/tototofoo/images/test2/202203272005443.jpg" alt></p><p>debug</p><p>​</p><h2 id="3月25日首先是站上图片大规模爆炸-27日好像有人反馈gitee已经恢复了"><a class="header-anchor" href="#3月25日首先是站上图片大规模爆炸-27日好像有人反馈gitee已经恢复了">☆</a>3月25日首先是站上图片大规模爆炸/27日好像有人反馈gitee已经恢复了</h2><blockquote><p>开始会选择用图床也只是因为国内github有时候连接不稳定，而且加载图片速度非常慢，SMMS虽然我使用了接近一年的时间，最后想到图片会越积累越多无法整理，最后我选择用gitee作为图床来使用。</p></blockquote><p>然后前天偶然的一刷新发现gitee的图片全部爆炸。</p><p>很简单，<strong>因为gitee一声不吭突然把图片设置了防盗链</strong>，然后之前上传到gitee仓库的图片全部失效，2021我几乎一整年都用了这个方式上传图片，结局就是一言难尽。</p><p>​</p><p>​</p><h2 id="试图恢复图片的显示"><a class="header-anchor" href="#试图恢复图片的显示">☆</a>试图恢复图片的显示</h2><p>很多人建议用阿里云和腾讯云作为图床的仓库，据说反应速度极快。</p><p>但是除了存储空间费用以外，这几家都会根据访问量收取额外的费用，非常的让人不安心，考虑了一阵子。</p><p>​</p><blockquote><p><strong>最后还是选择用github作为图床库 + CDN加速</strong></p><p>做法是先把gitee上的原有仓库拷贝下来，然后重新上传到github上面去。</p><p>CDN主要解决图片加载速度太慢的问题，但后来观察实际上效果也一般（…) <s>还有炸掉的可能性，虽然不太大（应该吧）</s></p><p>最后就是在typora里面使用command+F，替换掉所有原有的链接前缀</p><p>意外的好处是原本gitee1M的限制大小在这之后也就没有了</p></blockquote><p>​</p><p>结局是图片显示速度还是远不如之前，但至少能显示了。</p><p>没有完美好解决的方案…暂时。</p><p>​</p><p>​</p><h2 id="最后是修理海岸"><a class="header-anchor" href="#最后是修理海岸">☆</a>最后是修理海岸</h2><p>因为gitee炸了也导致海岸的头像失效。</p><p>和上次补档评论类似</p><blockquote><p>进入leancloud，在结构化数据里面批量修改avatar的链接</p></blockquote><p>​</p><p>说实话出什么问题真的没人预料得到…</p><p>比如我感觉修完这些又出了新的问题。</p>]]></content>
     
@@ -46,9 +46,9 @@
     <link href="https://tototofoo.github.io/blog/2022/03/20/2022/3-20_1/"/>
     <id>https://tototofoo.github.io/blog/2022/03/20/2022/3-20_1/</id>
     <published>2022-03-20T12:41:49.000Z</published>
-    <updated>2022-03-27T07:00:47.830Z</updated>
+    <updated>2022-04-05T11:52:29.238Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>事实上的主管：二周目还没通.</p><span id="more"></span><p>​</p><p>​</p><p>​</p><h2 id="一点三人组的后日谈"><a class="header-anchor" href="#一点三人组的后日谈">☆</a>一点三人组的后日谈</h2><p>​</p><blockquote><p>走上了各自人生的长路，里诺留下的是钱和爱</p></blockquote><p>​</p><p><img src="https://cdn.jsdelivr.net/gh/tototofoo/images/test2/202203202201205.jpg" alt></p><p>​</p><p>​</p><p>​</p><p>​</p><blockquote><p>康纳留下的应该是认识自我的勇气</p><p>以及<s>烟瘾</s>（在戒了）</p></blockquote><p>​</p><p><img src="https://cdn.jsdelivr.net/gh/tototofoo/images/test2/202203202046212.jpg" alt></p><p>​</p><p>​</p><p>​</p><blockquote><p>萨缪尔留下的是两位朋友</p><p>以及伤痕和一点点忧愁</p></blockquote><p>​</p><p><img src="https://cdn.jsdelivr.net/gh/tototofoo/images/test2/202203202058683.jpg" alt></p><p>​</p><p>​</p><p>想了下就算打续作应该也不会再捏老员工的形象了。</p><p>就算要捏可能也只是当做乐趣在玩了，毕竟在我的视角里故事已经在那里构成，并且迎来了结束。</p><p>（当演员用倒是会用的）</p><p>我还挺喜欢这种稳定的关系，比起朋友更多了一点微妙的情绪在，可能在某些地方超出了友谊的界限，但没人会在意。</p><p>​</p><p>续作倒是想继续看看有没有香香司书可以画!!!</p><p>​</p><p>​</p><blockquote><p>附赠，偶尔也会显露出笨拙的一面（？）</p></blockquote><img src="https://cdn.jsdelivr.net/gh/tototofoo/images/test2/202203202228187.jpg" style="zoom:50%;"><blockquote><p>附赠之二</p><p>其实只是看到很适合无君的手机壳所以画了这张jpg</p><p>某友人：<strong>你别这样，我害怕</strong></p></blockquote><img src="https://cdn.jsdelivr.net/gh/tototofoo/images/test2/202203202048909.jpg" style="zoom:50%;"><p>​</p><p>​</p><p>​</p><h2 id="春-春"><a class="header-anchor" href="#春-春">☆</a>春, 春</h2><p>今年春天来了还没来得及去散步。</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>事实上的主管：二周目还没通.</p><span id="more"></span><p>​</p><p>​</p><p>​</p><h2 id="一点三人组的后日谈"><a class="header-anchor" href="#一点三人组的后日谈">☆</a>一点三人组的后日谈</h2><p>​</p><blockquote><p>走上了各自人生的长路，里诺留下的是钱和爱</p></blockquote><p>​</p><p><img src="https://cdn.jsdelivr.net/gh/tototofoo/images/test2/202203202201205.jpg" alt></p><p>​</p><p>​</p><p>​</p><p>​</p><blockquote><p>康纳留下的应该是认识自我的勇气</p><p>以及<s>烟瘾</s>（在戒了）</p></blockquote><p>​</p><p><img src="https://cdn.jsdelivr.net/gh/tototofoo/images/test2/202203202046212.jpg" alt></p><p>​</p><p>​</p><p>​</p><blockquote><p>萨缪尔留下的是两位朋友</p><p>以及伤痕和一点点忧愁</p></blockquote><p>​</p><p><img src="https://cdn.jsdelivr.net/gh/tototofoo/images/test2/202203202058683.jpg" alt></p><p>​</p><p>​</p><p>想了下就算打续作应该也不会再捏老员工的形象了。</p><p>就算要捏可能也只是当做乐趣在玩了，毕竟在我的视角里故事已经在那里构成，并且迎来了结束。</p><p>（当演员用倒是会用的）</p><p>我还挺喜欢这种稳定的关系，比起朋友更多了一点微妙的情绪在，可能在某些地方超出了友谊的界限，但没人会在意。</p><p>​</p><p>续作倒是想继续看看有没有香香司书可以画!!!</p><p>​</p><p>​</p><blockquote><p>附赠，偶尔也会显露出笨拙的一面（？）</p></blockquote><img src="https://cdn.jsdelivr.net/gh/tototofoo/images/test2/202203202228187.jpg" style="zoom:50%;"><blockquote><p>附赠之二</p><p>其实只是看到很适合无君的手机壳所以画了这张jpg</p><p>某友人：<strong>你别这样，我害怕</strong></p></blockquote><img src="https://cdn.jsdelivr.net/gh/tototofoo/images/test2/202203202048909.jpg" style="zoom:50%;"><p>​</p><p>​</p><p>​</p><h2 id="春-春"><a class="header-anchor" href="#春-春">☆</a>春, 春</h2><p>今年春天来了还没来得及去散步，以及<strong>春天就应该听春野</strong></p><p>说实话是肚子很饿，但也没有饿到无法忍受的地步。</p><p>意外的冷静，几乎没有任何运动和体力消耗，就只是把自己的注意力转移到其他的事情上面而已。</p><p>…父母提醒我不要饿死了。</p><p>可能觉得我在忙，很快就挂了电话，松了一口气，突然觉得自己是不是还是有点没做到对他们温柔一点。</p><p>​</p><p>​</p><p>最近在玩OMORI，还挺好玩的…!!! 想着“要是自己高中的时候玩到，是不是未来就会发生不一样的变化”，这几年基本上没自己玩过恐怖RPG了，这部的音响效果还是挺厉害的，戴耳机真的把我吓到了，想着慢慢玩，要是想写一个repo就到时候再写吧。</p><p>​</p><p>​</p><p>以前被人说了过瘦，自己没自觉，觉得体重其实还不算轻了，只是表象很擅长骗人而已，结果被门口大白用豪爽的声音说你多吃点啊，突然感觉自己像个典型的垃圾家里蹲一样，在那笑个不停…</p><p>偶尔觉得自己要是再长高一点就好了，这样就不会显得很好欺负。不擅长被别人保护，总是不自觉的作为了别人的靠山。</p><p>最近吃东西的时候，清晰的感觉到自己在“摄入必要的能量”，人类就是这样的生物吗，活着的实感突然像个闷棍一样敲在自己头上，又安心又温暖，很想跳舞。</p><p>​</p><p>​</p><p>自己也是有弱点的，理性和感性常常会黏在一起，不想搞清楚。</p><p>等待某天很想斥责这样子的自己。</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;事实上的主管：二周目还没通.&lt;/p&gt;</summary>
@@ -109,9 +109,9 @@
     
     <category term="illust" scheme="https://tototofoo.github.io/blog/categories/illust/"/>
     
-    <category term="product" scheme="https://tototofoo.github.io/blog/categories/product/"/>
-    
     <category term="像素" scheme="https://tototofoo.github.io/blog/categories/illust/%E5%83%8F%E7%B4%A0/"/>
+    
+    <category term="product" scheme="https://tototofoo.github.io/blog/categories/product/"/>
     
     <category term="消波块点阵体" scheme="https://tototofoo.github.io/blog/categories/product/%E6%B6%88%E6%B3%A2%E5%9D%97%E7%82%B9%E9%98%B5%E4%BD%93/"/>
     
@@ -390,9 +390,9 @@
     
     
     
-    <category term="illust" scheme="https://tototofoo.github.io/blog/categories/illust/"/>
-    
     <category term="log" scheme="https://tototofoo.github.io/blog/categories/log/"/>
+    
+    <category term="illust" scheme="https://tototofoo.github.io/blog/categories/illust/"/>
     
     <category term="鱼干" scheme="https://tototofoo.github.io/blog/categories/illust/%E9%B1%BC%E5%B9%B2/"/>
     
@@ -424,9 +424,9 @@
     <category term="主管好拉支部" scheme="https://tototofoo.github.io/blog/categories/illust/%E4%B8%BB%E7%AE%A1%E5%A5%BD%E6%8B%89%E6%94%AF%E9%83%A8/"/>
     
     
-    <category term="脑叶公司" scheme="https://tototofoo.github.io/blog/tags/%E8%84%91%E5%8F%B6%E5%85%AC%E5%8F%B8/"/>
-    
     <category term="漫画" scheme="https://tototofoo.github.io/blog/tags/%E6%BC%AB%E7%94%BB/"/>
+    
+    <category term="脑叶公司" scheme="https://tototofoo.github.io/blog/tags/%E8%84%91%E5%8F%B6%E5%85%AC%E5%8F%B8/"/>
     
   </entry>
   
@@ -453,9 +453,9 @@
     <category term="主管好拉支部" scheme="https://tototofoo.github.io/blog/categories/illust/%E4%B8%BB%E7%AE%A1%E5%A5%BD%E6%8B%89%E6%94%AF%E9%83%A8/"/>
     
     
-    <category term="脑叶公司" scheme="https://tototofoo.github.io/blog/tags/%E8%84%91%E5%8F%B6%E5%85%AC%E5%8F%B8/"/>
-    
     <category term="漫画" scheme="https://tototofoo.github.io/blog/tags/%E6%BC%AB%E7%94%BB/"/>
+    
+    <category term="脑叶公司" scheme="https://tototofoo.github.io/blog/tags/%E8%84%91%E5%8F%B6%E5%85%AC%E5%8F%B8/"/>
     
   </entry>
   
@@ -491,7 +491,7 @@
     <published>2021-07-11T09:42:30.000Z</published>
     <updated>2022-03-27T07:30:30.601Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>随便配图</p><p>​<span id="more"></span></p>        <div id="aplayer-zlpaSRBe" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-zlpaSRBe"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Drawl",              author: "春野",              url: "http://music.163.com/song/media/outer/url?id=1463435593.mp3",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>照片就懒得发了…也没拍多少</p><p>母胎第一次去参了展，看了两天摊位，全程开启了营业模式</p><p>营业模式很消耗精神力，可能因为自己本来就没有多喜欢和人交流…</p><p>感叹这点真的是与生俱来，努力过感觉也只能削减消耗的体力值而已，不能解决本质上对人群的恐惧</p><p>遇到了各种各样的人，展会上真的很多刀客塔，也是第一次觉得方舟这游戏受众真广（ <s>虽然我对这种美少女美少年+塔防的游戏还是提不起劲…</s></p><p>最期待的是试完后看他们填的问卷，<strong>第一天有两个玩家不约而同写了最近在玩脑叶和废墟图书馆</strong>，笑死…</p><p>这游戏比我想象中还受欢迎怎么回事，“还是说同类型的玩家会互相吸引呢”，当下这么想了一下</p><p>印象比较深的是布展之前下雷暴雨，浑身解数保护要送出去的礼物盒子，站在地铁出口望着这个地方，第一次感到了自己正在生活在这里，自己毕竟是异乡人，对上海的吃的也有一大堆槽想吐…</p><p>连着吃了两天展会的盒饭，也只能是填饱肚子的程度，各色各样人生的人在会场中穿行，有时候也会忍不住观察一下，有个未成年的男生玩的很认真，结束之后还一直对我说“加油喔！！”</p><p>有种单纯又青涩的气势，不禁感慨道真年轻…</p><p>虽然是开心的，但是营业模式开太久已经无法思考太深入了。</p><p>也出现了被问是不是开发者的情况，被人当成学生也不是一天两天的事情了，也许比起都市的成长速度，来自小县城的自己花了太多时间在其他的事情上，假期也只能呆在家做点自己的事。</p><p>所以看到结伴而来的学生，会觉得时代在变化</p><p>​</p><p>​</p><p>最后把展会痛T拿回来当睡衣穿了</p><p><strong>心痛事件：回家的地铁上把才买了一个月的新伞给弄丢了</strong></p><p>​</p><p>​</p><p>其他的。</p><p>这种活动下切实的感觉到社交力在消耗，虽然努力学习过与人相处的方法了，但却还是无法把握很多不确定的东西</p><p>我不相信纯粹的温柔能解决问题，所以也要学会决断和示威</p><p>想好好掌握这个平衡，然后在成人意义上变得更可靠一些，有那种游刃有余的把握…</p><p>我并不讨厌得到好处，但我会害怕不求回报的东西</p><p>最近学到的道理就是交换利益也是美德的一种。</p><p>有时候我无法理解大众群体的情感，但我努力用自己的方式诠释和理解，例如“朋友”或者“家人“或者”恋人“都好，我觉得自己多少都有点变态的理解，但在我看来这些都无所谓了</p><p>重要的是应该如何不打扰他人，然后让自己活得快乐</p><p>自己给自己做决定，然后自己对自己负责，想成为这样可靠的人</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog/assets/css/APlayer.min.css"><script src="/blog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>随便配图</p><p>​<span id="more"></span></p>        <div id="aplayer-DShnrKQp" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-DShnrKQp"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Drawl",              author: "春野",              url: "http://music.163.com/song/media/outer/url?id=1463435593.mp3",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>照片就懒得发了…也没拍多少</p><p>母胎第一次去参了展，看了两天摊位，全程开启了营业模式</p><p>营业模式很消耗精神力，可能因为自己本来就没有多喜欢和人交流…</p><p>感叹这点真的是与生俱来，努力过感觉也只能削减消耗的体力值而已，不能解决本质上对人群的恐惧</p><p>遇到了各种各样的人，展会上真的很多刀客塔，也是第一次觉得方舟这游戏受众真广（ <s>虽然我对这种美少女美少年+塔防的游戏还是提不起劲…</s></p><p>最期待的是试完后看他们填的问卷，<strong>第一天有两个玩家不约而同写了最近在玩脑叶和废墟图书馆</strong>，笑死…</p><p>这游戏比我想象中还受欢迎怎么回事，“还是说同类型的玩家会互相吸引呢”，当下这么想了一下</p><p>印象比较深的是布展之前下雷暴雨，浑身解数保护要送出去的礼物盒子，站在地铁出口望着这个地方，第一次感到了自己正在生活在这里，自己毕竟是异乡人，对上海的吃的也有一大堆槽想吐…</p><p>连着吃了两天展会的盒饭，也只能是填饱肚子的程度，各色各样人生的人在会场中穿行，有时候也会忍不住观察一下，有个未成年的男生玩的很认真，结束之后还一直对我说“加油喔！！”</p><p>有种单纯又青涩的气势，不禁感慨道真年轻…</p><p>虽然是开心的，但是营业模式开太久已经无法思考太深入了。</p><p>也出现了被问是不是开发者的情况，被人当成学生也不是一天两天的事情了，也许比起都市的成长速度，来自小县城的自己花了太多时间在其他的事情上，假期也只能呆在家做点自己的事。</p><p>所以看到结伴而来的学生，会觉得时代在变化</p><p>​</p><p>​</p><p>最后把展会痛T拿回来当睡衣穿了</p><p><strong>心痛事件：回家的地铁上把才买了一个月的新伞给弄丢了</strong></p><p>​</p><p>​</p><p>其他的。</p><p>这种活动下切实的感觉到社交力在消耗，虽然努力学习过与人相处的方法了，但却还是无法把握很多不确定的东西</p><p>我不相信纯粹的温柔能解决问题，所以也要学会决断和示威</p><p>想好好掌握这个平衡，然后在成人意义上变得更可靠一些，有那种游刃有余的把握…</p><p>我并不讨厌得到好处，但我会害怕不求回报的东西</p><p>最近学到的道理就是交换利益也是美德的一种。</p><p>有时候我无法理解大众群体的情感，但我努力用自己的方式诠释和理解，例如“朋友”或者“家人“或者”恋人“都好，我觉得自己多少都有点变态的理解，但在我看来这些都无所谓了</p><p>重要的是应该如何不打扰他人，然后让自己活得快乐</p><p>自己给自己做决定，然后自己对自己负责，想成为这样可靠的人</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;随便配图&lt;/p&gt;
